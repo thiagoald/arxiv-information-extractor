@@ -32,12 +32,13 @@ def main():
         output = nlp.annotate(s, properties={"annotators":"tokenize,ssplit,pos,depparse,natlog,openie",
                                 "outputFormat": "json",
                                  "openie.triple.strict":"true",
-                                 "openie.max_entailments_per_clause":"2"})
+                                 "openie.max_entailments_per_clause":"1",
+                                 "splitter.disable":"true"})
         result = [output["sentences"][0]["openie"] for item in output]
         relations = []
         for i in result:
             for rel in i:
-                relationSent = rel['relation'],rel['subject'],rel['object']
+                relationSent = rel['subject'],rel['relation'],rel['object']
                 relations.append(relationSent)
         article['relations'] = relations
         

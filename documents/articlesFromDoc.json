@@ -42,8 +42,8 @@
     ],
     "relations": [
       [
-        "is in",
         "on-board perception systems",
+        "is in",
         "vehicles"
       ]
     ],
@@ -65,23 +65,18 @@
     ],
     "relations": [
       [
-        "present",
-        "We",
-        "first image-based generative model of people in clothing"
-      ],
-      [
-        "is in",
         "first image-based generative model",
+        "is in",
         "clothing"
       ],
       [
-        "present",
         "We",
+        "present",
         "first image-based generative model of people in clothing in full-body setting"
       ],
       [
-        "is in",
         "first image-based generative model",
+        "is in",
         "full-body setting"
       ]
     ],
@@ -119,8 +114,8 @@
     ],
     "relations": [
       [
-        "is in",
         "use",
+        "is in",
         "wave-front reconstruction"
       ]
     ],
@@ -144,14 +139,9 @@
     ],
     "relations": [
       [
+        "XMM-Newton",
         "is direct precursor of",
-        "XMM-Newton",
         "future ESA ATHENA mission"
-      ],
-      [
-        "is",
-        "XMM-Newton",
-        "direct precursor"
       ]
     ],
     "title": "A Systematic Analysis of the XMM-Newton Background: I. Dataset and Extraction Procedures",
@@ -176,13 +166,7 @@
       " High Energy Astrophysical Phenomena (astro-ph.HE)",
       " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
     ],
-    "relations": [
-      [
-        "present",
-        "We",
-        "accurate characterization of particle background behaviour"
-      ]
-    ],
+    "relations": [],
     "title": "A Systematic Analysis of the XMM-Newton Background: II. Properties of the in-Field-Of-View Excess Component",
     "abstract": "We present an accurate characterization of the particle background behaviour on XMM-Newton based on the entire EPIC archive. This corresponds to the largest EPIC data set ever examined. Our results have been obtained thanks to the collaboration between the FP7 European program EXTraS and the ESA R&D ATHENA activity AREMBES. We used as a diagnostic an improved version of the diagnostic which compares the data collected in unexposed region of the detector with the region of the field of view in the EPIC-MOS. We will show that the in Field-of-View excess background is made up of two different components, one associated to flares produced by soft protons and the other one to a low-intensity background. Its origin needs to be further investigated.",
     "authors": [
@@ -228,13 +212,7 @@
       " High Energy Astrophysical Phenomena (astro-ph.HE)",
       " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
     ],
-    "relations": [
-      [
-        "show",
-        "We",
-        "results"
-      ]
-    ],
+    "relations": [],
     "title": "A systematic analysis of the XMM-Newton background: IV. Origin of the unfocused and focused components",
     "abstract": "We show the results obtained in the FP7 European program EXTraS and in the ESA R&D ATHENA activity AREMBES aimed at a deeper understanding of the XMM-Newton background to better design the ATHENA mission. Thanks to an analysis of the full EPIC archive coupled to the information obtained by the Radiation Monitor we show the cosmic ray origin of the unfocused particle background and its anti-correlation with the solar activity. We show the first results of the effort to obtain informations about the particle component of the soft proton focused background.",
     "authors": [
@@ -261,8 +239,8 @@
     ],
     "relations": [
       [
-        "is in",
         "pressing issues",
+        "is in",
         "life sciences"
       ]
     ],
@@ -284,13 +262,13 @@
     ],
     "relations": [
       [
-        "are",
         "simulations",
+        "are",
         "popular"
       ],
       [
-        "is In",
         "popular tool",
+        "is In",
         "modern engineering"
       ]
     ],
@@ -308,18 +286,7 @@
     "subjects": [
       " Methodology (stat.ME)"
     ],
-    "relations": [
-      [
-        "parsimoniously model",
-        "Bigraphical Lasso estimator",
-        "precision matrices"
-      ],
-      [
-        "was",
-        "Bigraphical Lasso estimator",
-        "proposed"
-      ]
-    ],
+    "relations": [],
     "title": "Tensor Graphical Lasso (TeraLasso)",
     "abstract": "The Bigraphical Lasso estimator was proposed to parsimoniously model the precision matrices of matrix-normal data based on the Cartesian product of graphs. By enforcing extreme sparsity (the number of parameters) and explicit structures on the precision matrix, this model has excellent potential for improving scalability of the computation and interpretability of complex data analysis. As a result, this model significantly reduces the size of the sample in order to learn the precision matrices, and hence the conditional probability models along different coordinates such as space, time and replicates. In this work, we extend the Bigraphical Lasso (BiGLasso) estimator to the TEnsor gRAphical Lasso (TeraLasso) estimator and propose an analogous method for modeling the precision matrix of tensor-valued data. We establish consistency for both the BiGLasso and TeraLasso estimators and obtain the rates of convergence in the operator and Frobenius norm for estimating the precision matrix. We design a scalable gradient descent method for solving the objective function and analyze the computational convergence rate, showing that the composite gradient descent algorithm is guaranteed to converge at a geometric rate to the global minimizer. Finally, we provide simulation evidence and analysis of a meteorological dataset, showing that we can recover graphical structures and estimate the precision matrices, as predicted by theory.",
     "authors": [
@@ -335,13 +302,7 @@
     "subjects": [
       " Methodology (stat.ME)"
     ],
-    "relations": [
-      [
-        "estimating",
-        "mixed model prediction approach",
-        "quantities"
-      ]
-    ],
+    "relations": [],
     "title": "Adaptively Transformed Mixed Model Prediction of General Finite Population Parameters",
     "abstract": "For estimating area-specific parameters (quantities) in a finite population, a mixed model prediction approach is attractive. However, this approach strongly depends on the normality assumption of the response values although we often encounter a non-normal case in practice. In such a case, transforming observations to make them close to normality is a useful tool, but the problem of selecting suitable transformation still remains open. To overcome the difficulty, we here propose a new empirical best predicting method by using a parametric family of transformations to estimate a suitable transformation based on the data. We suggest a simple estimating method for transformation parameters based on the profile likelihood function, which achieves consistency under some conditions on transformation functions. For measuring variability of point prediction, we construct an empirical Bayes confidence interval of the population parameter of interest. Through simulation studies, we investigate some numerical performances of the proposed methods. Finally, we apply the proposed method to synthetic income data in Spanish provinces in which the resulting estimates indicate that the commonly used log-transformation is not appropriate.",
     "authors": [
