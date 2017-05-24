@@ -65,7 +65,11 @@ def extract_articles(html_string):
             print traceback.format_exc()
 
         # Abstract
-        # article['abstract'] = article_tag.contents[-1]
+        try:
+            article['abstract'] = meta_tag.find('p').contents[0]
+        except Exception as e:
+            print 'ERROR! Could not extract abstract for "', article['title'], '"!'
+            print traceback.format_exc()
         
         all_articles.append(article)
 
@@ -117,6 +121,6 @@ if __name__ == "__main__":
         print 'Extracting articles...'
         articles = extract_articles(html_text)
         print 'Done!\n'
-        print 'Generating output file (resource/output/articles.json)...'
-        json.dump(articles, codecs.open('resource/output/articles.json', 'w', 'utf-8'), indent='  ', ensure_ascii=False)
+        print 'Generating output file (resource/output/articlesFromHTML.json)...'
+        json.dump(articles, codecs.open('resource/output/articlesFromHTML.json', 'w', 'utf-8'), indent='  ', ensure_ascii=False)
         print 'Done!\n'
