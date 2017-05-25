@@ -34,12 +34,23 @@ def main():
                                  "openie.triple.strict":"true",
                                  "openie.max_entailments_per_clause":"1",
                                  "splitter.disable":"true"})
-        result = [output["sentences"][0]["openie"] for item in output]
+
+        results = []
+        idx = 0
+        while(True):
+            try:
+                result = [output["sentences"][idx]["openie"] for item in output]
+                results.append(result)
+                idx = idx + 1
+            except:
+                break
+
         relations = []
-        for i in result:
-            for rel in i:
-                relationSent = rel['subject'],rel['relation'],rel['object']
-                relations.append(relationSent)
+        for result in results:
+            for i in result:
+                for rel in i:
+                    relationSent = rel['subject'],rel['relation'],rel['object']
+                    relations.append(relationSent)
         article['relations'] = relations
         
         all_articles.append(article)
