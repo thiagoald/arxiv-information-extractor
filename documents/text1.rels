@@ -1,0 +1,66 @@
+Text 1:
+This work studies the advantages of coded multicasting for the downlink of a Fog Radio Access Network (F-RAN) system equipped with a multicast fronthaul link. In this system, a control unit (CU) in the baseband processing unit (BBU) pool is connected to distributed edge nodes (ENs) through a multicast fronthaul link of finite capacity, and the ENs have baseband processing and caching capabilities. Each user equipment (UE) requests a file in a content library which is available at the CU, and the requested files are served by the closest ENs based on the cached contents and on the information received on the multicast fronthaul link. The performance of coded multicast fronthauling is investigated in terms of the delivery latency of the requested contents under the assumption of pipelined transmission on the fronthaul and edge links and of single-user encoding and decoding strategies based on the hard transfer of files on the fronthaul links. Extensive numerical results are provided to validate the advantages of the coded multicasting scheme compared to uncoded unicast and multicast strategies.
+
+This work
+studies
+the advantages of coded multicasting for the downlink of a Fog Radio Access Network (F-RAN) system equipped with a multicast fronthaul link.
+
+a control unit (CU)
+is in
+the baseband processing unit (BBU) pool
+
+a control unit (CU) in the baseband processing unit (BBU) pool
+is connected
+to distributed edge nodes (ENs) through a multicast fronthaul link of finite capacity
+
+the ENs
+have
+baseband processing and caching capabilities
+
+Each user equipment (UE)
+requests
+a file in a content library which is available at the CU
+
+a file
+is in
+a content library
+
+a content library
+is available
+at the CU
+
+the requested files
+are served
+by the closest ENs
+
+the requested files
+are served
+based on the cached contents
+
+the requested files
+are served
+on the information received on the multicast fronthaul link
+
+The performance of coded multicast fronthauling
+is investigated
+in terms of the delivery latency of the requested contents
+
+The performance of coded multicast fronthauling
+is investigated
+under the assumption of pipelined transmission on the fronthaul and edge links and of single-user encoding and decoding strategies based on the hard transfer of files on the fronthaul links
+
+decoding strategies
+are based on
+the hard transfer of files on the fronthaul links
+
+Extensive numerical results
+are provided to
+validate the advantages of the coded multicasting scheme compared to uncoded unicast and multicast strategies
+
+Extensive numerical results
+are compared to
+uncoded unicast and multicast strategies
+
+Total:      7
+Precision:  2/3  = 67%
+Coverage:   2/15 = 13%

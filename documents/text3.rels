@@ -1,4 +1,21 @@
+Text 3:
 Sensor setups consisting of a combination of 3D range scanner lasers and stereo vision systems are becoming a popular choice for on-board perception systems in vehicles; however, the combined use of both sources of information implies a tedious calibration process. We present a method for extrinsic calibration of lidar-stereo camera pairs without user intervention. Our calibration approach is aimed to cope with the constraints commonly found in automotive setups, such as low-resolution and specific sensor poses. To demonstrate the performance of our method, we also introduce a novel approach for the quantitative assessment of the calibration results, based on a simulation environment. Tests using real devices have been conducted as well, proving the usability of the system and the improvement over the existing approaches. Code is available at https://github.com/beltransen/velo2cam_calibration.
+
+on-board perception systems
+is in
+vehicles
+
+we
+demonstrate
+performance of our method
+
+Tests
+using
+real devices
+
+Tests
+using
+devices
 
 Sensor setups consisting of a combination of 3D range scanner lasers and stereo vision systems
 are becoming
@@ -24,8 +41,14 @@ Tests
 using
 real devices
 
+Code
+is
+available
+
 Code 
 is available at
 https://github.com/beltransen/velo2cam_calibration
 
-Total: 7
+Total:      7
+Precision:  6/6  =   100%
+Coverage:   6/12 =   50%

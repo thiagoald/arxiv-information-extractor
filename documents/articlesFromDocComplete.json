@@ -1,0 +1,6220 @@
+[
+  {
+    "journalRef": null,
+    "subjects": [
+      " Information Theory (cs.IT)"
+    ],
+    "relations": [
+      [
+        "control unit",
+        "is connected In",
+        "system"
+      ],
+      [
+        "control unit",
+        "is connected to",
+        "distributed edge nodes"
+      ],
+      [
+        "control unit",
+        "is",
+        "In system connected to edge nodes"
+      ],
+      [
+        "baseband processing unit",
+        "in unit is",
+        "CU"
+      ],
+      [
+        "control unit",
+        "is connected to",
+        "edge nodes"
+      ],
+      [
+        "ENs",
+        "have",
+        "caching capabilities"
+      ],
+      [
+        "control unit",
+        "is in",
+        "baseband processing unit"
+      ],
+      [
+        "control unit",
+        "is connected to",
+        "ENs"
+      ],
+      [
+        "ENs",
+        "have",
+        "baseband processing"
+      ],
+      [
+        "control unit",
+        "is",
+        "In system connected to distributed edge nodes"
+      ],
+      [
+        "control unit",
+        "is",
+        "connected"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "closest ENs"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "closest ENs on information received on multicast fronthaul link"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "ENs on information received on fronthaul link"
+      ],
+      [
+        "files",
+        "are served by",
+        "ENs on information"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "closest ENs on information received on fronthaul link"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "ENs on information received on multicast fronthaul link"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "closest ENs on information"
+      ],
+      [
+        "files",
+        "are served by",
+        "ENs on information received"
+      ],
+      [
+        "files",
+        "are served by",
+        "closest ENs on information received on fronthaul link"
+      ],
+      [
+        "file",
+        "is in",
+        "content library"
+      ],
+      [
+        "files",
+        "are served by",
+        "ENs on information received on multicast fronthaul link"
+      ],
+      [
+        "files",
+        "are",
+        "served"
+      ],
+      [
+        "requested files",
+        "are",
+        "served"
+      ],
+      [
+        "files",
+        "are served by",
+        "ENs"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "ENs on information"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "closest ENs on information received"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "ENs on information received"
+      ],
+      [
+        "files",
+        "are served by",
+        "closest ENs"
+      ],
+      [
+        "files",
+        "are served by",
+        "closest ENs on information"
+      ],
+      [
+        "files",
+        "are served by",
+        "closest ENs on information received"
+      ],
+      [
+        "files",
+        "are served by",
+        "ENs on information received on fronthaul link"
+      ],
+      [
+        "requested files",
+        "are served by",
+        "ENs"
+      ],
+      [
+        "files",
+        "are served by",
+        "closest ENs on information received on multicast fronthaul link"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of contents under assumption of encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency under assumption"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of requested contents"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of requested contents under assumption"
+      ],
+      [
+        "performance",
+        "is",
+        "investigated"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of contents under assumption"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of contents under assumption of single-user encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of requested contents under assumption of single-user encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency under assumption of single-user encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency under assumption of encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of requested contents under assumption of encoding"
+      ],
+      [
+        "performance",
+        "is investigated in",
+        "terms of delivery latency of contents"
+      ],
+      [
+        "Extensive numerical results",
+        "validate",
+        "advantages of coded scheme"
+      ],
+      [
+        "results",
+        "validate",
+        "advantages of multicasting scheme"
+      ],
+      [
+        "Extensive numerical results",
+        "validate advantages compared to",
+        "unicast"
+      ],
+      [
+        "Extensive results",
+        "validate advantages compared to",
+        "uncoded unicast"
+      ],
+      [
+        "numerical results",
+        "validate",
+        "advantages of scheme"
+      ],
+      [
+        "Extensive results",
+        "validate",
+        "advantages of coded scheme"
+      ],
+      [
+        "results",
+        "validate advantages compared to",
+        "uncoded unicast"
+      ],
+      [
+        "Extensive numerical results",
+        "validate advantages compared to",
+        "uncoded unicast"
+      ],
+      [
+        "numerical results",
+        "validate",
+        "advantages of multicasting scheme"
+      ],
+      [
+        "results",
+        "validate",
+        "advantages"
+      ],
+      [
+        "numerical results",
+        "validate advantages compared to",
+        "unicast"
+      ],
+      [
+        "results",
+        "validate",
+        "advantages of coded multicasting scheme"
+      ],
+      [
+        "numerical results",
+        "validate advantages compared to",
+        "uncoded unicast"
+      ],
+      [
+        "results",
+        "validate",
+        "advantages of coded scheme"
+      ],
+      [
+        "numerical results",
+        "are",
+        "provided"
+      ],
+      [
+        "results",
+        "are",
+        "provided"
+      ],
+      [
+        "Extensive numerical results",
+        "validate",
+        "advantages of scheme"
+      ],
+      [
+        "Extensive results",
+        "validate",
+        "advantages of coded multicasting scheme"
+      ],
+      [
+        "numerical results",
+        "validate",
+        "advantages"
+      ],
+      [
+        "Extensive numerical results",
+        "validate",
+        "advantages of multicasting scheme"
+      ],
+      [
+        "Extensive results",
+        "validate",
+        "advantages of scheme"
+      ],
+      [
+        "Extensive results",
+        "validate",
+        "advantages"
+      ],
+      [
+        "results",
+        "validate",
+        "advantages of scheme"
+      ],
+      [
+        "Extensive numerical results",
+        "validate",
+        "advantages"
+      ],
+      [
+        "Extensive numerical results",
+        "are",
+        "provided"
+      ],
+      [
+        "Extensive results",
+        "validate",
+        "advantages of multicasting scheme"
+      ],
+      [
+        "numerical results",
+        "validate",
+        "advantages of coded multicasting scheme"
+      ],
+      [
+        "results",
+        "validate advantages compared to",
+        "unicast"
+      ],
+      [
+        "numerical results",
+        "validate",
+        "advantages of coded scheme"
+      ],
+      [
+        "Extensive numerical results",
+        "validate",
+        "advantages of coded multicasting scheme"
+      ],
+      [
+        "Extensive results",
+        "validate advantages compared to",
+        "unicast"
+      ],
+      [
+        "Extensive results",
+        "are",
+        "provided"
+      ]
+    ],
+    "title": "Coded Multicast Fronthauling and Edge Caching for Multi-Connectivity Transmission in Fog Radio Access Networks",
+    "abstract": "This work studies the advantages of coded multicasting for the downlink of a Fog Radio Access Network (F-RAN) system equipped with a multicast fronthaul link. In this system, a control unit (CU) in the baseband processing unit (BBU) pool is connected to distributed edge nodes (ENs) through a multicast fronthaul link of finite capacity, and the ENs have baseband processing and caching capabilities. Each user equipment (UE) requests a file in a content library which is available at the CU, and the requested files are served by the closest ENs based on the cached contents and on the information received on the multicast fronthaul link. The performance of coded multicast fronthauling is investigated in terms of the delivery latency of the requested contents under the assumption of pipelined transmission on the fronthaul and edge links and of single-user encoding and decoding strategies based on the hard transfer of files on the fronthaul links. Extensive numerical results are provided to validate the advantages of the coded multicasting scheme compared to uncoded unicast and multicast strategies.",
+    "authors": [
+      "Seok-Hwan Park",
+      " Osvaldo Simeone",
+      " Wonju Lee",
+      " Shlomo Shamai (Shitz)"
+    ],
+    "id": "1705.04070",
+    "comments": "to appear in Proc. IEEE SPAWC 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Information Theory (cs.IT)",
+      " Computational Engineering, Finance, and Science (cs.CE)",
+      " Optimization and Control (math.OC)",
+      " Instrumentation and Detectors (physics.ins-det)",
+      " Medical Physics (physics.med-ph)"
+    ],
+    "relations": [
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "sensitivity profiles"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit sensitivity profiles as",
+        "additional source of information"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit sensitivity profiles as",
+        "source"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "spatially varying sensitivity profiles of receive-coil arrays"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "varying sensitivity profiles"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit sensitivity profiles as",
+        "source of information"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "spatially varying sensitivity profiles"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "sensitivity profiles of receive-coil arrays"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit",
+        "varying sensitivity profiles of receive-coil arrays"
+      ],
+      [
+        "Modern reconstruction methods",
+        "exploit sensitivity profiles as",
+        "additional source"
+      ],
+      [
+        "receive sensitivities",
+        "influenced by",
+        "geometry properties"
+      ],
+      [
+        "sensitivities",
+        "are",
+        "unknown"
+      ],
+      [
+        "sensitivities",
+        "influenced by",
+        "geometry properties"
+      ],
+      [
+        "sensitivities",
+        "are",
+        "priori unknown"
+      ],
+      [
+        "receive sensitivities",
+        "influenced by",
+        "geometry properties of subject"
+      ],
+      [
+        "receive sensitivities",
+        "are",
+        "unknown"
+      ],
+      [
+        "sensitivities",
+        "influenced by",
+        "geometry properties of subject"
+      ],
+      [
+        "receive sensitivities",
+        "are",
+        "priori unknown"
+      ],
+      [
+        "we",
+        "will discuss approaches In",
+        "work"
+      ],
+      [
+        "we",
+        "will discuss",
+        "developed approaches for solution of problem"
+      ],
+      [
+        "we",
+        "will discuss",
+        "developed approaches for solution"
+      ],
+      [
+        "we",
+        "will discuss",
+        "approaches for solution of problem"
+      ],
+      [
+        "we",
+        "will discuss",
+        "recently developed approaches for solution"
+      ],
+      [
+        "we",
+        "will discuss",
+        "approaches"
+      ],
+      [
+        "we",
+        "will discuss",
+        "developed approaches"
+      ],
+      [
+        "we",
+        "will discuss",
+        "recently developed approaches"
+      ],
+      [
+        "we",
+        "will discuss",
+        "recently developed approaches for solution of problem"
+      ],
+      [
+        "we",
+        "will discuss",
+        "approaches for solution"
+      ]
+    ],
+    "title": "Autocalibrating and Calibrationless Parallel Magnetic Resonance Imaging as a Bilinear Inverse Problem",
+    "abstract": "Modern reconstruction methods for magnetic resonance imaging (MRI) exploit the spatially varying sensitivity profiles of receive-coil arrays as additional source of information. This allows to reduce the number of time-consuming Fourier-encoding steps by undersampling. The receive sensitivities are a priori unknown and influenced by geometry and electric properties of the (moving) subject. For optimal results, they need to be estimated jointly with the image from the same undersampled measurement data. Formulated as an inverse problem, this leads to a bilinear reconstruction problem related to multi-channel blind deconvolution. In this work, we will discuss some recently developed approaches for the solution of this problem.",
+    "authors": [
+      "Martin Uecker"
+    ],
+    "id": "1705.04081",
+    "comments": "3 pages, 3 figures, 12th International Conference on Sampling Theory and Applications, Tallinn 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computer Vision and Pattern Recognition (cs.CV)",
+      " Robotics (cs.RO)"
+    ],
+    "relations": [
+      [
+        "Sensor setups",
+        "choice for",
+        "on-board perception systems"
+      ],
+      [
+        "tedious calibration process",
+        "combined use of",
+        "sources of information"
+      ],
+      [
+        "Sensor setups",
+        "consisting of",
+        "combination"
+      ],
+      [
+        "calibration process",
+        "combined use of",
+        "sources of information"
+      ],
+      [
+        "Sensor setups",
+        "choice for",
+        "on-board perception systems in vehicles"
+      ],
+      [
+        "tedious calibration process",
+        "use of",
+        "sources of information"
+      ],
+      [
+        "on-board perception systems",
+        "is in",
+        "vehicles"
+      ],
+      [
+        "Sensor setups",
+        "choice for",
+        "perception systems in vehicles"
+      ],
+      [
+        "Sensor setups",
+        "choice for",
+        "perception systems"
+      ],
+      [
+        "Sensor setups",
+        "popular choice for",
+        "perception systems"
+      ],
+      [
+        "Sensor setups",
+        "popular choice for",
+        "perception systems in vehicles"
+      ],
+      [
+        "Sensor setups",
+        "consisting of",
+        "combination 3D range scanner lasers"
+      ],
+      [
+        "Sensor setups",
+        "popular choice for",
+        "on-board perception systems in vehicles"
+      ],
+      [
+        "calibration process",
+        "use of",
+        "sources of information"
+      ],
+      [
+        "Sensor setups",
+        "popular choice for",
+        "on-board perception systems"
+      ],
+      [
+        "We",
+        "present",
+        "method for extrinsic calibration of lidar-stereo camera pairs"
+      ],
+      [
+        "We",
+        "present",
+        "method for extrinsic calibration"
+      ],
+      [
+        "We",
+        "present",
+        "method"
+      ],
+      [
+        "We",
+        "present",
+        "method for calibration"
+      ],
+      [
+        "We",
+        "present",
+        "method for calibration of camera pairs"
+      ],
+      [
+        "We",
+        "present",
+        "method for extrinsic calibration of camera pairs"
+      ],
+      [
+        "We",
+        "present method without",
+        "user intervention"
+      ],
+      [
+        "We",
+        "present",
+        "method for calibration of lidar-stereo camera pairs"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints commonly found in automotive setups"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints commonly found in setups"
+      ],
+      [
+        "Our calibration approach",
+        "is",
+        "aimed"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints commonly found"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints commonly found in setups"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints found in automotive setups"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints found"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints found"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints found in automotive setups"
+      ],
+      [
+        "Our calibration approach",
+        "cope with",
+        "constraints found in setups"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints commonly found in automotive setups"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints commonly found"
+      ],
+      [
+        "Our calibration approach",
+        "is aimed",
+        "cope with constraints found in setups"
+      ],
+      [
+        "we",
+        "introduce",
+        "novel approach for assessment"
+      ],
+      [
+        "we",
+        "also introduce",
+        "novel approach for quantitative assessment of calibration"
+      ],
+      [
+        "we",
+        "introduce",
+        "novel approach for quantitative assessment of calibration"
+      ],
+      [
+        "we",
+        "introduce",
+        "novel approach for assessment of calibration"
+      ],
+      [
+        "we",
+        "also introduce",
+        "novel approach for assessment"
+      ],
+      [
+        "we",
+        "introduce",
+        "approach for assessment"
+      ],
+      [
+        "we",
+        "also introduce",
+        "approach for quantitative assessment"
+      ],
+      [
+        "we",
+        "demonstrate",
+        "performance"
+      ],
+      [
+        "we",
+        "also introduce",
+        "approach for quantitative assessment of calibration"
+      ],
+      [
+        "we",
+        "demonstrate",
+        "performance of our method"
+      ],
+      [
+        "we",
+        "introduce",
+        "novel approach for quantitative assessment"
+      ],
+      [
+        "we",
+        "introduce",
+        "approach"
+      ],
+      [
+        "we",
+        "introduce",
+        "novel approach"
+      ],
+      [
+        "we",
+        "introduce",
+        "approach for assessment of calibration"
+      ],
+      [
+        "we",
+        "also introduce",
+        "novel approach for assessment of calibration"
+      ],
+      [
+        "we",
+        "introduce",
+        "approach for quantitative assessment of calibration"
+      ],
+      [
+        "we",
+        "also introduce",
+        "novel approach"
+      ],
+      [
+        "we",
+        "introduce",
+        "approach for quantitative assessment"
+      ],
+      [
+        "we",
+        "also introduce",
+        "approach for assessment of calibration"
+      ],
+      [
+        "we",
+        "also introduce",
+        "approach for assessment"
+      ],
+      [
+        "we",
+        "also introduce",
+        "approach"
+      ],
+      [
+        "we",
+        "also introduce",
+        "novel approach for quantitative assessment"
+      ],
+      [
+        "Tests",
+        "have",
+        "have conducted as well"
+      ],
+      [
+        "Tests",
+        "using",
+        "real devices"
+      ],
+      [
+        "Tests",
+        "proving",
+        "usability of system"
+      ],
+      [
+        "Tests",
+        "proving",
+        "usability"
+      ],
+      [
+        "Tests",
+        "proving",
+        "improvement"
+      ],
+      [
+        "improvement",
+        "usability of",
+        "system"
+      ],
+      [
+        "Tests",
+        "have",
+        "have conducted"
+      ],
+      [
+        "Tests",
+        "using",
+        "devices"
+      ],
+      [
+        "Tests",
+        "proving",
+        "improvement over approaches"
+      ],
+      [
+        "Tests",
+        "proving",
+        "improvement over existing approaches"
+      ],
+      [
+        "Code",
+        "is",
+        "available"
+      ],
+      [
+        "Code",
+        "is available at",
+        "https://github.com/beltransen/velo2cam_calibration"
+      ]
+    ],
+    "title": "Automatic Extrinsic Calibration for Lidar-Stereo Vehicle Sensor Setups",
+    "abstract": "Sensor setups consisting of a combination of 3D range scanner lasers and stereo vision systems are becoming a popular choice for on-board perception systems in vehicles; however, the combined use of both sources of information implies a tedious calibration process. We present a method for extrinsic calibration of lidar-stereo camera pairs without user intervention. Our calibration approach is aimed to cope with the constraints commonly found in automotive setups, such as low-resolution and specific sensor poses. To demonstrate the performance of our method, we also introduce a novel approach for the quantitative assessment of the calibration results, based on a simulation environment. Tests using real devices have been conducted as well, proving the usability of the system and the improvement over the existing approaches. Code is available at https://github.com/beltransen/velo2cam_calibration.",
+    "authors": [
+      "Carlos Guindel",
+      " Jorge Beltrán",
+      " David Martín",
+      " Fernando García"
+    ],
+    "id": "1705.04085",
+    "comments": "Submitted to International Conference on Intelligent Transportation Systems 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "relations": [
+      [
+        "We",
+        "present",
+        "model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model"
+      ],
+      [
+        "We",
+        "present",
+        "model of people"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model"
+      ],
+      [
+        "We",
+        "present",
+        "generative model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "generative model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model in clothing in full-body setting"
+      ],
+      [
+        "first image-based generative model",
+        "is in",
+        "clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model"
+      ],
+      [
+        "We",
+        "present",
+        "model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "generative model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people in clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "model"
+      ],
+      [
+        "We",
+        "present",
+        "model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first generative model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in clothing in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in full-body setting"
+      ],
+      [
+        "We",
+        "present",
+        "image-based generative model of people in clothing in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first model of people"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based model in setting"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model"
+      ],
+      [
+        "We",
+        "present",
+        "image-based model of people"
+      ],
+      [
+        "first image-based generative model",
+        "is in",
+        "full-body setting"
+      ],
+      [
+        "We",
+        "sidestep",
+        "commonly used complex graphics"
+      ],
+      [
+        "We",
+        "sidestep",
+        "graphics"
+      ],
+      [
+        "We",
+        "sidestep",
+        "used graphics"
+      ],
+      [
+        "We",
+        "sidestep",
+        "complex graphics"
+      ],
+      [
+        "We",
+        "sidestep",
+        "used complex graphics"
+      ],
+      [
+        "We",
+        "sidestep",
+        "commonly used graphics"
+      ],
+      [
+        "we",
+        "Instead learn models from",
+        "image database"
+      ],
+      [
+        "we",
+        "learn models from",
+        "image database"
+      ],
+      [
+        "we",
+        "learn",
+        "models"
+      ],
+      [
+        "we",
+        "Instead learn",
+        "generative models"
+      ],
+      [
+        "we",
+        "learn",
+        "generative models"
+      ],
+      [
+        "we",
+        "learn models from",
+        "large image database"
+      ],
+      [
+        "we",
+        "Instead learn",
+        "models"
+      ],
+      [
+        "we",
+        "Instead learn models from",
+        "large image database"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with high variance in pose"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "variance in human pose"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with variance in pose"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "high variance"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with high variance in pose"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with high variance in human pose"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "high variance"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with variance"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "variance in pose"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with high variance in human pose"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "variance in human pose"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "variance"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "high variance in pose"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with variance"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "high variance in pose"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with variance in human pose"
+      ],
+      [
+        "challenge",
+        "cope with",
+        "high variance in human pose"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "variance"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with variance in human pose"
+      ],
+      [
+        "high variance",
+        "is in",
+        "human pose"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "high variance in human pose"
+      ],
+      [
+        "main challenge",
+        "is",
+        "cope with high variance"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with high variance"
+      ],
+      [
+        "main challenge",
+        "cope with",
+        "variance in pose"
+      ],
+      [
+        "challenge",
+        "is",
+        "cope with variance in pose"
+      ],
+      [
+        "challenge",
+        "be",
+        "overcome"
+      ],
+      [
+        "generating process",
+        "is in",
+        "two parts"
+      ],
+      [
+        "we",
+        "generate",
+        "semantic segmentation"
+      ],
+      [
+        "we",
+        "generate",
+        "segmentation"
+      ],
+      [
+        "we",
+        "generate",
+        "segmentation of body"
+      ],
+      [
+        "we",
+        "generate",
+        "semantic segmentation of body"
+      ],
+      [
+        "we",
+        "learn",
+        "conditional model"
+      ],
+      [
+        "we",
+        "Second learn",
+        "model"
+      ],
+      [
+        "we",
+        "Second learn",
+        "conditional model"
+      ],
+      [
+        "we",
+        "learn",
+        "model"
+      ],
+      [
+        "model",
+        "is",
+        "differentiable"
+      ],
+      [
+        "model",
+        "be conditioned on",
+        "pose"
+      ],
+      [
+        "full model",
+        "is",
+        "differentiable"
+      ],
+      [
+        "model",
+        "be",
+        "conditioned"
+      ],
+      [
+        "full model",
+        "be conditioned on",
+        "pose"
+      ],
+      [
+        "full model",
+        "be",
+        "conditioned"
+      ],
+      [
+        "people",
+        "is in",
+        "different clothing items"
+      ],
+      [
+        "result",
+        "are samples of",
+        "people in different clothing items"
+      ],
+      [
+        "result",
+        "are samples of",
+        "people"
+      ],
+      [
+        "result",
+        "are samples of",
+        "people in clothing items"
+      ],
+      [
+        "result",
+        "are",
+        "samples"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "new people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely new people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "people with clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely people"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "people"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "new people with clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely new people with clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely new people with realistic clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "new people"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely new people"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely new people"
+      ],
+      [
+        "model",
+        "can generate",
+        "people"
+      ],
+      [
+        "model",
+        "can generate",
+        "new people with clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "people with clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely new people with clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "new people with realistic clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely people with clothing"
+      ],
+      [
+        "new people",
+        "is with",
+        "realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely people"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "new people"
+      ],
+      [
+        "model",
+        "can generate",
+        "people with realistic clothing"
+      ],
+      [
+        "model",
+        "can generate",
+        "entirely people with clothing"
+      ],
+      [
+        "generation",
+        "is",
+        "possible"
+      ]
+    ],
+    "title": "A Generative Model of People in Clothing",
+    "abstract": "We present the first image-based generative model of people in clothing in a full-body setting. We sidestep the commonly used complex graphics rendering pipeline and the need for high-quality 3D scans of dressed people. Instead, we learn generative models from a large image database. The main challenge is to cope with the high variance in human pose, shape and appearance. For this reason, pure image-based approaches have not been considered so far. We show that this challenge can be overcome by splitting the generating process in two parts. First, we learn to generate a semantic segmentation of the body and clothing. Second, we learn a conditional model on the resulting segments that creates realistic images. The full model is differentiable and can be conditioned on pose, shape or color. The result are samples of people in different clothing items and styles. The proposed model can generate entirely new people with realistic clothing. In several experiments we present encouraging results that suggest an entirely data-driven approach to people generation is possible.",
+    "authors": [
+      "Christoph Lassner",
+      " Gerard Pons-Moll",
+      " Peter V. Gehler"
+    ],
+    "id": "1705.04098",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Emerging Technologies (cs.ET)"
+    ],
+    "relations": [
+      [
+        "physical limitations",
+        "triggered",
+        "several research"
+      ],
+      [
+        "limitations",
+        "triggered",
+        "research"
+      ],
+      [
+        "physical limitations",
+        "triggered",
+        "research"
+      ],
+      [
+        "physical limitations",
+        "finding",
+        "technology"
+      ],
+      [
+        "limitations",
+        "finding",
+        "alternative technology"
+      ],
+      [
+        "limitations",
+        "finding",
+        "technology"
+      ],
+      [
+        "limitations",
+        "triggered",
+        "several research"
+      ],
+      [
+        "physical limitations",
+        "finding",
+        "alternative technology"
+      ],
+      [
+        "potential",
+        "is",
+        "its ultra power consumption"
+      ],
+      [
+        "main potential",
+        "is",
+        "its ultra power consumption"
+      ],
+      [
+        "main potential",
+        "is",
+        "its ultra low power consumption"
+      ],
+      [
+        "potential",
+        "is",
+        "its ultra low power consumption"
+      ],
+      [
+        "basic gates",
+        "is in",
+        "QCA"
+      ],
+      [
+        "Majority gates",
+        "are",
+        "basic gates"
+      ],
+      [
+        "Majority gates",
+        "are",
+        "gates"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis of arbitrary multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for optimal QCA circuit synthesis of arbitrary boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for QCA circuit synthesis"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for QCA circuit synthesis of arbitrary boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for optimal QCA circuit synthesis of boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for QCA circuit synthesis of arbitrary multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for QCA circuit synthesis of arbitrary boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for QCA circuit synthesis of arbitrary multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for optimal QCA circuit synthesis of arbitrary multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for QCA circuit synthesis of multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis of boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for QCA circuit synthesis"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for QCA circuit synthesis of boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for QCA circuit synthesis of boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for QCA circuit synthesis of multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis of arbitrary boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for optimal QCA circuit synthesis of multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "methodology for optimal QCA circuit synthesis"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis of multi-output boolean functions"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "worst case delay"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "case delay of QCA circuit"
+      ],
+      [
+        "approach",
+        "is",
+        "used"
+      ],
+      [
+        "approach",
+        "reduce",
+        "gate count"
+      ],
+      [
+        "based approach",
+        "is",
+        "used"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "worst case delay of QCA circuit"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "gate count"
+      ],
+      [
+        "approach",
+        "reduce",
+        "case delay"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "case delay"
+      ],
+      [
+        "approach",
+        "reduce",
+        "worst case delay"
+      ],
+      [
+        "approach",
+        "reduce",
+        "worst case delay of QCA circuit"
+      ],
+      [
+        "approach",
+        "reduce",
+        "case delay of QCA circuit"
+      ],
+      [
+        "Different importance",
+        "is given to",
+        "worst case delay"
+      ],
+      [
+        "importance",
+        "is given to",
+        "worst case delay"
+      ],
+      [
+        "importance",
+        "is given to",
+        "case delay"
+      ],
+      [
+        "importance",
+        "is",
+        "given"
+      ],
+      [
+        "Different importance",
+        "is",
+        "given"
+      ],
+      [
+        "importance",
+        "is given to",
+        "no"
+      ],
+      [
+        "Different importance",
+        "is given to",
+        "case delay"
+      ],
+      [
+        "Different importance",
+        "is given to",
+        "no"
+      ],
+      [
+        "efficient techniques",
+        "achieve",
+        "optimal result"
+      ],
+      [
+        "Several efficient techniques",
+        "are",
+        "used"
+      ],
+      [
+        "optimal result",
+        "reduce",
+        "computational complexity"
+      ],
+      [
+        "efficient techniques",
+        "are",
+        "used"
+      ],
+      [
+        "additional methodologies",
+        "are",
+        "used"
+      ],
+      [
+        "additional methodologies",
+        "are",
+        "furthermore used"
+      ],
+      [
+        "optimal result",
+        "reduce",
+        "complexity"
+      ],
+      [
+        "Several efficient techniques",
+        "achieve",
+        "optimal result"
+      ],
+      [
+        "efficient techniques",
+        "achieve",
+        "result"
+      ],
+      [
+        "methodologies",
+        "eliminate redundancies from",
+        "solution"
+      ],
+      [
+        "techniques",
+        "achieve",
+        "optimal result"
+      ],
+      [
+        "additional methodologies",
+        "eliminate redundancies from",
+        "solution"
+      ],
+      [
+        "methodologies",
+        "eliminate redundancies from",
+        "final solution"
+      ],
+      [
+        "result",
+        "reduce",
+        "complexity"
+      ],
+      [
+        "techniques",
+        "are",
+        "used"
+      ],
+      [
+        "techniques",
+        "achieve",
+        "result"
+      ],
+      [
+        "Several techniques",
+        "achieve",
+        "optimal result"
+      ],
+      [
+        "Several techniques",
+        "are",
+        "used"
+      ],
+      [
+        "methodologies",
+        "eliminate",
+        "redundancies"
+      ],
+      [
+        "additional methodologies",
+        "eliminate redundancies from",
+        "final solution"
+      ],
+      [
+        "methodologies",
+        "are",
+        "furthermore used"
+      ],
+      [
+        "methodologies",
+        "are",
+        "used"
+      ],
+      [
+        "Several efficient techniques",
+        "achieve",
+        "result"
+      ],
+      [
+        "Several techniques",
+        "achieve",
+        "result"
+      ],
+      [
+        "result",
+        "reduce",
+        "computational complexity"
+      ],
+      [
+        "additional methodologies",
+        "eliminate",
+        "redundancies"
+      ],
+      [
+        "proposed technique",
+        "outperforms in",
+        "terms of worst case delay"
+      ],
+      [
+        "proposed technique",
+        "outperforms in",
+        "terms of case delay"
+      ],
+      [
+        "obtained results",
+        "is with",
+        "existing best techniques"
+      ],
+      [
+        "technique",
+        "outperforms in",
+        "terms of worst case delay"
+      ],
+      [
+        "proposed technique",
+        "outperforms in",
+        "terms"
+      ],
+      [
+        "technique",
+        "outperforms in",
+        "terms"
+      ],
+      [
+        "technique",
+        "outperforms in",
+        "terms of case delay"
+      ]
+    ],
+    "title": "Synthesis and Optimization of Multi-Objective Multi-Output QCA Circuit using Genetic Algorithm",
+    "abstract": "The physical limitations of CMOS technology triggered several research for finding an alternative technology. QCA is one of the emerging nanotechnologies which is gaining attention as a substitute of CMOS. The main potential of QCA is its ultra low power consumption, less area overhead, and high speed. Majority and inverter gates are the basic gates in QCA,which together works as a universal logic gate to implement any QCA circuit. This paper proposes an efficient methodology for optimal QCA circuit synthesis of arbitrary multi-output boolean functions. A multi-objective genetic algorithm based approach is used to reduce worst case delay and gate count of a QCA circuit. Different importance is given to worst case delay, no. of majority and no. of inverter gates. Several efficient techniques are used in order to achieve the optimal result and reduce the computational complexity furthermore additional methodologies are used to eliminate redundancies from the final solution. Comparison of the obtained results with the existing best techniques indicates, the proposed technique outperforms in terms of worst case delay and gate count.",
+    "authors": [
+      "Mahabub Hasan Mahalat",
+      " Mrinal Goswami",
+      " Anindan Mondal",
+      " Bibhash Sen"
+    ],
+    "id": "1705.04099",
+    "comments": "5 tables, 9 figures"
+  },
+  {
+    "journalRef": " Opt. Express 25, 11452-11465 (2017)",
+    "subjects": [
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "use",
+        "can reduce computation time with",
+        "high number of degrees"
+      ],
+      [
+        "use",
+        "can reduce computation time with",
+        "number"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "high number of degrees of freedom"
+      ],
+      [
+        "use",
+        "can significantly reduce",
+        "computation time"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "number of degrees of freedom"
+      ],
+      [
+        "use",
+        "can reduce",
+        "computation time for telescopes"
+      ],
+      [
+        "use",
+        "is in",
+        "wave-front reconstruction"
+      ],
+      [
+        "use",
+        "can reduce computation time with",
+        "high number"
+      ],
+      [
+        "use",
+        "can significantly reduce",
+        "computation time for telescopes"
+      ],
+      [
+        "use",
+        "can significantly reduce",
+        "computation time for large telescopes"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "high number"
+      ],
+      [
+        "use",
+        "can reduce",
+        "computation time for large telescopes"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "number of degrees"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "high number of degrees"
+      ],
+      [
+        "use",
+        "can significantly reduce computation time with",
+        "number"
+      ],
+      [
+        "use",
+        "can reduce computation time with",
+        "number of degrees"
+      ],
+      [
+        "use",
+        "can reduce",
+        "computation time"
+      ],
+      [
+        "use",
+        "can reduce computation time with",
+        "high number of degrees of freedom"
+      ],
+      [
+        "use",
+        "can reduce computation time with",
+        "number of degrees of freedom"
+      ],
+      [
+        "sensor data",
+        "is defined over",
+        "telescope pupil"
+      ],
+      [
+        "sensor data",
+        "is defined over",
+        "domain"
+      ],
+      [
+        "wave-front sensor data",
+        "is defined over",
+        "domain"
+      ],
+      [
+        "wave-front sensor data",
+        "is defined over",
+        "circular domain"
+      ],
+      [
+        "sensor data",
+        "is typically defined over",
+        "telescope pupil"
+      ],
+      [
+        "wave-front sensor data",
+        "is typically defined over",
+        "domain"
+      ],
+      [
+        "sensor data",
+        "is defined over",
+        "circular domain"
+      ],
+      [
+        "wave-front sensor data",
+        "is defined over",
+        "telescope pupil"
+      ],
+      [
+        "wave-front sensor data",
+        "is typically defined over",
+        "telescope pupil"
+      ],
+      [
+        "sensor data",
+        "is",
+        "defined"
+      ],
+      [
+        "sensor data",
+        "is",
+        "typically defined"
+      ],
+      [
+        "wave-front sensor data",
+        "is",
+        "typically defined"
+      ],
+      [
+        "wave-front sensor data",
+        "is typically defined over",
+        "circular domain"
+      ],
+      [
+        "wave-front sensor data",
+        "is",
+        "defined"
+      ],
+      [
+        "sensor data",
+        "is typically defined over",
+        "domain"
+      ],
+      [
+        "sensor data",
+        "is typically defined over",
+        "circular domain"
+      ],
+      [
+        "we",
+        "present",
+        "iterative Gerchberg routine modified for purposes"
+      ],
+      [
+        "fulfilling",
+        "requirements of",
+        "Fast Fourier Transform"
+      ],
+      [
+        "fulfilling",
+        "requirements of",
+        "Fourier Transform"
+      ],
+      [
+        "we",
+        "fulfilling",
+        "requirements"
+      ],
+      [
+        "we",
+        "providing",
+        "reconstruction"
+      ],
+      [
+        "we",
+        "present",
+        "iterative Gerchberg"
+      ],
+      [
+        "we",
+        "present",
+        "iterative Gerchberg routine modified"
+      ],
+      [
+        "we",
+        "present",
+        "Gerchberg routine"
+      ],
+      [
+        "we",
+        "present",
+        "Gerchberg routine modified for purposes"
+      ],
+      [
+        "fulfilling",
+        "requirements of",
+        "FFT"
+      ],
+      [
+        "we",
+        "present",
+        "Gerchberg routine modified"
+      ],
+      [
+        "we",
+        "providing",
+        "accurate reconstruction"
+      ],
+      [
+        "we",
+        "fulfilling",
+        "requirements of Fast Fourier Transform"
+      ],
+      [
+        "we",
+        "present",
+        "iterative Gerchberg routine"
+      ],
+      [
+        "we",
+        "fulfilling",
+        "requirements of Fourier Transform"
+      ],
+      [
+        "we",
+        "present",
+        "Gerchberg"
+      ],
+      [
+        "routine",
+        "is used in",
+        "adaptation step"
+      ],
+      [
+        "routine",
+        "is",
+        "used"
+      ],
+      [
+        "routine",
+        "is used only in",
+        "adaptation step"
+      ],
+      [
+        "routine",
+        "is",
+        "used only"
+      ],
+      [
+        "We",
+        "show",
+        "increase in terms of Strehl ratio"
+      ],
+      [
+        "increase",
+        "is in",
+        "performance"
+      ],
+      [
+        "We",
+        "show",
+        "increase in terms"
+      ],
+      [
+        "reduction",
+        "increase in",
+        "performance"
+      ],
+      [
+        "We",
+        "show",
+        "reduction in noise propagation for 40x40 SPHERE-like adaptive optics system"
+      ],
+      [
+        "simulations",
+        "using method with",
+        "previous Fourier methods"
+      ],
+      [
+        "We",
+        "compare",
+        "simulations"
+      ],
+      [
+        "We",
+        "show",
+        "reduction for 40x40 adaptive optics system"
+      ],
+      [
+        "We",
+        "show",
+        "reduction in noise propagation for 40x40 SPHERE-like optics system"
+      ],
+      [
+        "reduction",
+        "is in",
+        "noise propagation"
+      ],
+      [
+        "We",
+        "show",
+        "reduction in noise propagation for 40x40 adaptive optics system"
+      ],
+      [
+        "We",
+        "show",
+        "increase in performance in terms of Strehl ratio"
+      ],
+      [
+        "We",
+        "show",
+        "reduction for 40x40 SPHERE-like adaptive optics system"
+      ],
+      [
+        "We",
+        "show",
+        "reduction for 40x40 SPHERE-like optics system"
+      ],
+      [
+        "We",
+        "show",
+        "reduction in noise propagation for 40x40 optics system"
+      ],
+      [
+        "We",
+        "show",
+        "reduction in noise propagation"
+      ],
+      [
+        "increase",
+        "is in",
+        "terms of Strehl ratio"
+      ],
+      [
+        "simulations",
+        "using",
+        "method"
+      ],
+      [
+        "simulations",
+        "using method with",
+        "Fourier methods"
+      ],
+      [
+        "We",
+        "show",
+        "increase"
+      ],
+      [
+        "We",
+        "show",
+        "reduction"
+      ],
+      [
+        "We",
+        "show",
+        "increase in performance"
+      ],
+      [
+        "reduction",
+        "increase in",
+        "terms of Strehl ratio"
+      ],
+      [
+        "We",
+        "show",
+        "reduction for 40x40 optics system"
+      ],
+      [
+        "reduction",
+        "increase in",
+        "terms"
+      ],
+      [
+        "We",
+        "show",
+        "increase in performance in terms"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "loop operation"
+      ],
+      [
+        "closed loop operation",
+        "is with",
+        "minimal iterations"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "loop operation with iterations"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement from",
+        "95.4 %"
+      ],
+      [
+        "Gerchberg method",
+        "provides",
+        "improvement"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "closed loop operation"
+      ],
+      [
+        "96.9 %",
+        "is in",
+        "K-band"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "closed loop operation with iterations"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "closed loop operation with minimal iterations"
+      ],
+      [
+        "improvement",
+        "is in",
+        "Strehl"
+      ],
+      [
+        "Gerchberg method",
+        "provides",
+        "improvement in Strehl"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement from",
+        "95.4 % to 96.9 %"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement For",
+        "loop operation with minimal iterations"
+      ],
+      [
+        "Gerchberg method",
+        "provides improvement from",
+        "95.4 % to 96.9 % in K-band"
+      ],
+      [
+        "increase",
+        "is in",
+        "contrast towards edge of correctable band"
+      ],
+      [
+        "This",
+        "~",
+        "40 nm improvement in rms"
+      ],
+      [
+        "40 nm improvement",
+        "is in",
+        "rms"
+      ]
+    ],
+    "title": "Iterative wave-front reconstruction in the Fourier domain",
+    "abstract": "The use of Fourier methods in wave-front reconstruction can significantly reduce the computation time for large telescopes with a high number of degrees of freedom. However, Fourier algorithms for discrete data require a rectangular data set which conform to specific boundary requirements, whereas wave-front sensor data is typically defined over a circular domain (the telescope pupil). Here we present an iterative Gerchberg routine modified for the purposes of discrete wave-front reconstruction which adapts the measurement data (wave-front sensor slopes) for Fourier analysis, fulfilling the requirements of the Fast Fourier Transform (FFT) and providing accurate reconstruction. The routine is used in the adaptation step only and can be coupled to any other Wiener-like or least-squares method. We compare simulations using this method with previous Fourier methods and show an increase in performance in terms of Strehl ratio and a reduction in noise propagation for a 40x40 SPHERE-like adaptive optics system. For closed loop operation with minimal iterations the Gerchberg method provides an improvement in Strehl, from 95.4% to 96.9% in K-band. This corresponds to ~40 nm improvement in rms, and avoids the high spatial frequency errors present in other methods, providing an increase in contrast towards the edge of the correctable band.",
+    "authors": [
+      "Charlotte Z. Bond",
+      " Carlos M. Correia",
+      " Jean-François Sauvage",
+      " Benoit Neichel",
+      " Thierry Fusco"
+    ],
+    "id": "1705.04298",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "XMM-Newton",
+        "is direct precursor of",
+        "future ESA ATHENA mission"
+      ],
+      [
+        "XMM-Newton",
+        "is",
+        "precursor"
+      ],
+      [
+        "XMM-Newton",
+        "is precursor of",
+        "future ESA ATHENA mission"
+      ],
+      [
+        "XMM-Newton",
+        "is",
+        "direct precursor"
+      ],
+      [
+        "study",
+        "provides",
+        "insight"
+      ],
+      [
+        "study",
+        "provides",
+        "therefore significant insight for ATHENA mission design"
+      ],
+      [
+        "study",
+        "provides",
+        "therefore significant insight"
+      ],
+      [
+        "study",
+        "provides",
+        "significant insight for ATHENA mission design"
+      ],
+      [
+        "study",
+        "provides",
+        "significant insight"
+      ],
+      [
+        "study",
+        "provides",
+        "insight for ATHENA mission design"
+      ],
+      [
+        "We",
+        "make",
+        "use of about 12 years of data"
+      ],
+      [
+        "12 years",
+        "products from",
+        "third XMM-Newton catalog"
+      ],
+      [
+        "We",
+        "make",
+        "use of about 12 years"
+      ],
+      [
+        "We",
+        "make",
+        "use"
+      ],
+      [
+        "we",
+        "study",
+        "different components"
+      ],
+      [
+        "we",
+        "study",
+        "different components of background"
+      ],
+      [
+        "we",
+        "study",
+        "components"
+      ],
+      [
+        "we",
+        "study",
+        "components of background"
+      ]
+    ],
+    "title": "A Systematic Analysis of the XMM-Newton Background: I. Dataset and Extraction Procedures",
+    "abstract": "XMM-Newton is the direct precursor of the future ESA ATHENA mission. A study of its particle-induced background provides therefore significant insight for the ATHENA mission design. We make use of about 12 years of data, products from the third XMM-Newton catalog as well as FP7 EXTraS project to avoid celestial sources contamination and to disentangle the different components of the XMM-Newton particle-induced background. Within the ESA R&D AREMBES collaboration, we built new analysis pipelines to study the different components of this background: this covers time behavior as well as spectral and spatial characteristics.",
+    "authors": [
+      "Martino Marelli",
+      " David Salvetti",
+      " Fabio Gastaldello",
+      " Simona Ghizzardi",
+      " Silvano Molendi",
+      " Andrea De Luca",
+      " Alberto Moretti",
+      " Mariachiara Rossetti",
+      " Andrea Tiengo"
+    ],
+    "id": "1705.04171",
+    "comments": "To appear in Experimental Astronomy, presented at AHEAD Background Workshop, 28-30 November 2016, Rome, Italy. 12 pages, 6 figures"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "We",
+        "present",
+        "characterization"
+      ],
+      [
+        "We",
+        "present",
+        "characterization of particle background behaviour"
+      ],
+      [
+        "We",
+        "present",
+        "accurate characterization"
+      ],
+      [
+        "We",
+        "present",
+        "accurate characterization of particle background behaviour"
+      ],
+      [
+        "We",
+        "present",
+        "characterization on XMM-Newton"
+      ],
+      [
+        "We",
+        "present",
+        "characterization of particle background behaviour on XMM-Newton"
+      ],
+      [
+        "We",
+        "present",
+        "accurate characterization on XMM-Newton"
+      ],
+      [
+        "We",
+        "present",
+        "accurate characterization of particle background behaviour on XMM-Newton"
+      ],
+      [
+        "corresponds",
+        "set",
+        "ever examined"
+      ],
+      [
+        "corresponds",
+        "set",
+        "examined"
+      ],
+      [
+        "We",
+        "used as",
+        "version"
+      ],
+      [
+        "We",
+        "used as",
+        "improved version"
+      ],
+      [
+        "detector",
+        "is with",
+        "region of field of view"
+      ],
+      [
+        "We",
+        "used as",
+        "diagnostic improved version"
+      ],
+      [
+        "We",
+        "used as",
+        "diagnostic version"
+      ],
+      [
+        "the",
+        "is made up of",
+        "two different components"
+      ],
+      [
+        "the",
+        "is made up of",
+        "one associated to flares produced by soft protons"
+      ],
+      [
+        "the",
+        "is made up of",
+        "one associated to flares"
+      ],
+      [
+        "the",
+        "is made up of",
+        "one associated"
+      ],
+      [
+        "the",
+        "is made up of",
+        "one associated to flares produced"
+      ],
+      [
+        "the",
+        "is made up of",
+        "one associated to flares produced by protons"
+      ],
+      [
+        "the",
+        "is made up of",
+        "two components"
+      ],
+      [
+        "Its origin",
+        "be",
+        "investigated"
+      ],
+      [
+        "Its origin",
+        "be",
+        "further investigated"
+      ],
+      [
+        "Its origin",
+        "needs",
+        "investigated"
+      ],
+      [
+        "Its origin",
+        "needs",
+        "further investigated"
+      ]
+    ],
+    "title": "A Systematic Analysis of the XMM-Newton Background: II. Properties of the in-Field-Of-View Excess Component",
+    "abstract": "We present an accurate characterization of the particle background behaviour on XMM-Newton based on the entire EPIC archive. This corresponds to the largest EPIC data set ever examined. Our results have been obtained thanks to the collaboration between the FP7 European program EXTraS and the ESA R&D ATHENA activity AREMBES. We used as a diagnostic an improved version of the diagnostic which compares the data collected in unexposed region of the detector with the region of the field of view in the EPIC-MOS. We will show that the in Field-of-View excess background is made up of two different components, one associated to flares produced by soft protons and the other one to a low-intensity background. Its origin needs to be further investigated.",
+    "authors": [
+      "D. Salvetti",
+      " M. Marelli",
+      " F. Gastaldello",
+      " S. Ghizzardi",
+      " S. Molendi",
+      " A. De Luca",
+      " A. Moretti",
+      " M. Rossetti",
+      " A. Tiengo"
+    ],
+    "id": "1705.04172",
+    "comments": "10 pages, 6 figures, to appear in Experimental Astronomy. Presented at AHEAD Background Workshop, 28-30 November 2016, Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "adequate knowledge",
+        "is",
+        "desirable"
+      ],
+      [
+        "knowledge",
+        "is",
+        "desirable"
+      ],
+      [
+        "background",
+        "be",
+        "variable"
+      ],
+      [
+        "background",
+        "be",
+        "highly variable"
+      ],
+      [
+        "particle",
+        "induced",
+        "background detected"
+      ],
+      [
+        "background",
+        "detected by",
+        "instruments"
+      ],
+      [
+        "particle",
+        "induced",
+        "background"
+      ],
+      [
+        "particle",
+        "induced",
+        "background detected by instruments"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "concerning",
+        "influence of",
+        "magnetospheric environment"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "We",
+        "present",
+        "results"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate of variation"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "concerning",
+        "influence of",
+        "environment"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate of variation of background excess"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument XMM-Newton through estimate"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate of variation of in-Field-of-View background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate of variation"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected by EPIC instrument XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of environment on background detected through estimate"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected through estimate of variation"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate of variation"
+      ],
+      [
+        "concerning",
+        "influence on",
+        "background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess along XMM-Newton orbit"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of background excess"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument XMM-Newton through estimate"
+      ],
+      [
+        "contribution",
+        "comes from",
+        "proton flares"
+      ],
+      [
+        "important contribution",
+        "comes from",
+        "soft proton flares"
+      ],
+      [
+        "contribution",
+        "comes from",
+        "soft proton flares"
+      ],
+      [
+        "important contribution",
+        "comes from",
+        "proton flares"
+      ],
+      [
+        "component",
+        "is",
+        "present"
+      ],
+      [
+        "low-intensity component",
+        "is also present Along with",
+        "component"
+      ],
+      [
+        "component",
+        "is also present Along with",
+        "flaring component"
+      ],
+      [
+        "low-intensity component",
+        "is also present Along with",
+        "flaring component"
+      ],
+      [
+        "low-intensity component",
+        "is",
+        "present"
+      ],
+      [
+        "component",
+        "is present Along with",
+        "component"
+      ],
+      [
+        "component",
+        "is present Along with",
+        "flaring component"
+      ],
+      [
+        "low-intensity component",
+        "is present Along with",
+        "flaring component"
+      ],
+      [
+        "low-intensity component",
+        "is present Along with",
+        "component"
+      ],
+      [
+        "low-intensity component",
+        "is",
+        "also present"
+      ],
+      [
+        "component",
+        "is",
+        "also present"
+      ],
+      [
+        "component",
+        "is also present Along with",
+        "component"
+      ],
+      [
+        "both",
+        "show variations in",
+        "different magnetozones"
+      ],
+      [
+        "strong trend",
+        "is with",
+        "distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "trend with distance from Earth"
+      ],
+      [
+        "proton component",
+        "shows",
+        "strong trend"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "strong trend with distance"
+      ],
+      [
+        "soft proton component",
+        "strong trend with",
+        "distance from Earth"
+      ],
+      [
+        "both",
+        "show",
+        "variations"
+      ],
+      [
+        "proton component",
+        "shows",
+        "trend"
+      ],
+      [
+        "proton component",
+        "strong trend with",
+        "distance"
+      ],
+      [
+        "soft proton component",
+        "strong trend with",
+        "distance"
+      ],
+      [
+        "both",
+        "show",
+        "modest variations"
+      ],
+      [
+        "proton component",
+        "shows",
+        "strong trend with distance from Earth"
+      ],
+      [
+        "proton component",
+        "trend with",
+        "distance"
+      ],
+      [
+        "soft proton component",
+        "trend with",
+        "distance"
+      ],
+      [
+        "proton component",
+        "trend with",
+        "distance from Earth"
+      ],
+      [
+        "both",
+        "show variations in",
+        "magnetozones"
+      ],
+      [
+        "soft proton component",
+        "trend with",
+        "distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "strong trend with distance from Earth"
+      ],
+      [
+        "proton component",
+        "shows",
+        "strong trend with distance"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "trend"
+      ],
+      [
+        "proton component",
+        "shows",
+        "trend with distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "trend with distance"
+      ],
+      [
+        "proton component",
+        "shows",
+        "trend with distance"
+      ],
+      [
+        "proton component",
+        "strong trend with",
+        "distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "strong trend"
+      ]
+    ],
+    "title": "A systematic analysis of the XMM-Newton background: III. Impact of the magnetospheric environment",
+    "abstract": "A detailed characterization of the particle induced background is fundamental for many of the scientific objectives of the Athena X-ray telescope, thus an adequate knowledge of the background that will be encountered by Athena is desirable. Current X-ray telescopes have shown that the intensity of the particle induced background can be highly variable. Different regions of the magnetosphere can have very different environmental conditions, which can, in principle, differently affect the particle induced background detected by the instruments. We present results concerning the influence of the magnetospheric environment on the background detected by EPIC instrument onboard XMM-Newton through the estimate of the variation of the in-Field-of-View background excess along the XMM-Newton orbit. An important contribution to the XMM background, which may affect the Athena background as well, comes from soft proton flares. Along with the flaring component a low-intensity component is also present. We find that both show modest variations in the different magnetozones and that the soft proton component shows a strong trend with the distance from Earth.",
+    "authors": [
+      "Simona Ghizzardi",
+      " Martino Marelli",
+      " David Salvetti",
+      " Fabio Gastaldello",
+      " Silvano Molendi",
+      " Andrea De Luca",
+      " Alberto Moretti",
+      " Mariachiara Rossetti",
+      " Andrea Tiengo"
+    ],
+    "id": "1705.04173",
+    "comments": "To appear in Experimental Astronomy. Presented at AHEAD Background Workshop, 28-30 November 2016. Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "We",
+        "show",
+        "results"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at deeper understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding to better design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background to design"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 European program EXTraS"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in FP7 program EXTraS in ESA R&D ATHENA activity AREMBES aimed at deeper understanding of XMM-Newton background"
+      ],
+      [
+        "We",
+        "show",
+        "results obtained in ESA R&D ATHENA activity AREMBES aimed at understanding of XMM-Newton background"
+      ],
+      [
+        "we",
+        "show",
+        "ray origin"
+      ],
+      [
+        "we",
+        "show",
+        "cosmic ray origin"
+      ],
+      [
+        "we",
+        "show",
+        "cosmic ray origin of unfocused particle background"
+      ],
+      [
+        "we",
+        "show",
+        "ray origin of unfocused particle background"
+      ],
+      [
+        "we",
+        "show",
+        "cosmic ray origin of particle background"
+      ],
+      [
+        "we",
+        "show",
+        "ray origin of particle background"
+      ],
+      [
+        "first results",
+        "focused",
+        "background"
+      ],
+      [
+        "results",
+        "focused",
+        "background"
+      ]
+    ],
+    "title": "A systematic analysis of the XMM-Newton background: IV. Origin of the unfocused and focused components",
+    "abstract": "We show the results obtained in the FP7 European program EXTraS and in the ESA R&D ATHENA activity AREMBES aimed at a deeper understanding of the XMM-Newton background to better design the ATHENA mission. Thanks to an analysis of the full EPIC archive coupled to the information obtained by the Radiation Monitor we show the cosmic ray origin of the unfocused particle background and its anti-correlation with the solar activity. We show the first results of the effort to obtain informations about the particle component of the soft proton focused background.",
+    "authors": [
+      "F. Gastaldello",
+      " S. Ghizzardi",
+      " M. Marelli",
+      " D. Salvetti",
+      " S. Molendi",
+      " A. De Luca",
+      " A. Moretti",
+      " M. Rossetti",
+      " A. Tiengo"
+    ],
+    "id": "1705.04174",
+    "comments": "To appear in Experimental Astronomy. Presented ad AHEAD Background Workshop, 28-30 November 2016, Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)",
+      " Quantitative Methods (q-bio.QM)",
+      " Applications (stat.AP)",
+      " Machine Learning (stat.ML)"
+    ],
+    "relations": [
+      [
+        "pressing issues",
+        "is in",
+        "life sciences"
+      ],
+      [
+        "many applications",
+        "is in",
+        "neuroimaging"
+      ],
+      [
+        "sample size",
+        "number of",
+        "explanatory variables"
+      ],
+      [
+        "datasets",
+        "are",
+        "where typically high-dimensional"
+      ],
+      [
+        "false discovery rate",
+        "is criterion",
+        "can employed"
+      ],
+      [
+        "it",
+        "Thus has gained popularity as",
+        "tool for testing hypotheses"
+      ],
+      [
+        "it",
+        "has gained",
+        "great popularity"
+      ],
+      [
+        "it",
+        "Thus has gained",
+        "great popularity"
+      ],
+      [
+        "it",
+        "has gained popularity as",
+        "tool for testing multiple hypotheses"
+      ],
+      [
+        "it",
+        "Thus has gained popularity as",
+        "tool for testing multiple hypotheses"
+      ],
+      [
+        "it",
+        "Thus has gained popularity as",
+        "tool"
+      ],
+      [
+        "it",
+        "Thus has gained",
+        "popularity"
+      ],
+      [
+        "it",
+        "has gained popularity as",
+        "tool"
+      ],
+      [
+        "it",
+        "has gained popularity as",
+        "tool for testing hypotheses"
+      ],
+      [
+        "it",
+        "has gained",
+        "popularity"
+      ],
+      [
+        "analysis",
+        "is",
+        "statistical"
+      ],
+      [
+        "sparse CCA",
+        "extends method to",
+        "high-dimensional settings"
+      ],
+      [
+        "correlation analysis",
+        "is technique",
+        "used"
+      ],
+      [
+        "CCA",
+        "extends",
+        "method"
+      ],
+      [
+        "CCA",
+        "extends method to",
+        "settings"
+      ],
+      [
+        "sparse CCA",
+        "extends",
+        "method"
+      ],
+      [
+        "sparse CCA",
+        "extends",
+        "classical method"
+      ],
+      [
+        "sparse CCA",
+        "extends method to",
+        "settings"
+      ],
+      [
+        "CCA",
+        "extends",
+        "classical method"
+      ],
+      [
+        "CCA",
+        "extends method to",
+        "high-dimensional settings"
+      ],
+      [
+        "FDR correction",
+        "influences",
+        "sparsity"
+      ],
+      [
+        "FDR correction",
+        "directly influences",
+        "sparsity of solution"
+      ],
+      [
+        "FDR correction",
+        "directly influences",
+        "sparsity"
+      ],
+      [
+        "proposed FDR correction",
+        "directly influences",
+        "sparsity of solution"
+      ],
+      [
+        "FDR correction",
+        "influences",
+        "sparsity of solution"
+      ],
+      [
+        "proposed FDR correction",
+        "directly influences",
+        "sparsity"
+      ],
+      [
+        "proposed FDR correction",
+        "influences",
+        "sparsity"
+      ],
+      [
+        "proposed FDR correction",
+        "influences",
+        "sparsity of solution"
+      ],
+      [
+        "proposed FDR correction",
+        "adapting",
+        "it"
+      ],
+      [
+        "FDR correction",
+        "adapting",
+        "it"
+      ],
+      [
+        "our procedure",
+        "keeps",
+        "FDR of canonical vectors"
+      ],
+      [
+        "our procedure",
+        "indeed keeps",
+        "FDR of vectors"
+      ],
+      [
+        "our procedure",
+        "indeed keeps",
+        "FDR of canonical vectors"
+      ],
+      [
+        "our procedure",
+        "keeps FDR below",
+        "user-specified target level"
+      ],
+      [
+        "our procedure",
+        "indeed keeps FDR below",
+        "user-specified target level"
+      ],
+      [
+        "our procedure",
+        "keeps",
+        "FDR"
+      ],
+      [
+        "our procedure",
+        "keeps FDR below",
+        "target level"
+      ],
+      [
+        "our procedure",
+        "keeps",
+        "FDR of vectors"
+      ],
+      [
+        "our procedure",
+        "FDR of",
+        "vectors"
+      ],
+      [
+        "our procedure",
+        "FDR of",
+        "canonical vectors"
+      ],
+      [
+        "our procedure",
+        "indeed keeps",
+        "FDR"
+      ],
+      [
+        "our procedure",
+        "indeed keeps FDR below",
+        "target level"
+      ],
+      [
+        "We",
+        "apply",
+        "proposed method"
+      ],
+      [
+        "We",
+        "apply",
+        "method"
+      ],
+      [
+        "We",
+        "apply method to",
+        "imaging genomics dataset from Philadelphia Neurodevelopmental Cohort"
+      ],
+      [
+        "We",
+        "apply method to",
+        "imaging genomics dataset"
+      ],
+      [
+        "We",
+        "apply method to",
+        "imaging genomics"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by magnetic resonance imaging to corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional magnetic resonance imaging to subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured"
+      ],
+      [
+        "Our results",
+        "measured by",
+        "resonance imaging"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional magnetic resonance imaging to subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by magnetic resonance imaging to subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "measured by",
+        "fMRI"
+      ],
+      [
+        "Our results",
+        "link",
+        "brain activity"
+      ],
+      [
+        "Our results",
+        "measured by",
+        "magnetic resonance imaging"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by magnetic resonance imaging to corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional magnetic resonance imaging to corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by resonance imaging to corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by magnetic resonance imaging"
+      ],
+      [
+        "Our results",
+        "measured to",
+        "subjects ' data"
+      ],
+      [
+        "Our results",
+        "measured by",
+        "functional resonance imaging"
+      ],
+      [
+        "Our results",
+        "measured by",
+        "functional magnetic resonance imaging"
+      ],
+      [
+        "Our results",
+        "measured to",
+        "corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured to corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional magnetic resonance imaging to corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured to subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "measured to",
+        "subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity during",
+        "working memory task"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional resonance imaging to corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional resonance imaging"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by resonance imaging to subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional resonance imaging to corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by resonance imaging to subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity during",
+        "memory task"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional resonance imaging to subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by resonance imaging"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by resonance imaging to corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured to subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured to corresponding subjects ' data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional resonance imaging to subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "measured to",
+        "corresponding subjects ' genomic data"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by functional magnetic resonance imaging"
+      ],
+      [
+        "Our results",
+        "link brain activity",
+        "measured by magnetic resonance imaging to subjects ' data"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "previous work on cognitive ability"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "work on cognitive ability"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "previous work"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "previous work on ability"
+      ],
+      [
+        "Our findings",
+        "are",
+        "supported"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "work on ability"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "work"
+      ]
+    ],
+    "title": "FDR-Corrected Sparse Canonical Correlation Analysis with Applications to Imaging Genomics",
+    "abstract": "Reducing the number of false positive discoveries is presently one of the most pressing issues in the life sciences. It is of especially great importance for many applications in neuroimaging and genomics, where datasets are typically high-dimensional, which means that the number of explanatory variables exceeds the sample size. The false discovery rate (FDR) is a criterion that can be employed to address that issue. Thus it has gained great popularity as a tool for testing multiple hypotheses. Canonical correlation analysis (CCA) is a statistical technique that is used to make sense of the cross-correlation of two sets of measurements collected on the same set of samples (e.g., brain imaging and genomic data for the same mental illness patients), and sparse CCA extends the classical method to high-dimensional settings. Here we propose a way of applying the FDR concept to sparse CCA, and a method to control the FDR. The proposed FDR correction directly influences the sparsity of the solution, adapting it to the unknown true sparsity level. Theoretical derivation as well as simulation studies show that our procedure indeed keeps the FDR of the canonical vectors below a user-specified target level. We apply the proposed method to an imaging genomics dataset from the Philadelphia Neurodevelopmental Cohort. Our results link the brain activity during a working memory task, as measured by functional magnetic resonance imaging (fMRI), to the corresponding subjects' genomic data. Our findings are supported by previous work on cognitive ability, neurodevelopmental, and other mental disorders.",
+    "authors": [
+      "Alexej Gossmann",
+      " Pascal Zille",
+      " Vince Calhoun",
+      " Yu-Ping Wang"
+    ],
+    "id": "1705.04312",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computation (stat.CO)"
+    ],
+    "relations": [
+      [
+        "simulations",
+        "are",
+        "popular"
+      ],
+      [
+        "computer simulations",
+        "are tool",
+        "analyse"
+      ],
+      [
+        "computer simulations",
+        "are",
+        "In engineering popular tool analyse"
+      ],
+      [
+        "computer simulations",
+        "are",
+        "In modern engineering popular tool analyse"
+      ],
+      [
+        "computer simulations",
+        "are popular tool",
+        "analyse"
+      ],
+      [
+        "popular tool",
+        "is In",
+        "modern engineering"
+      ],
+      [
+        "computer simulations",
+        "are",
+        "In engineering tool analyse"
+      ],
+      [
+        "computer simulations",
+        "are",
+        "In modern engineering tool analyse"
+      ],
+      [
+        "uncertainty",
+        "concepts of are",
+        "importance"
+      ],
+      [
+        "concepts",
+        "are of",
+        "Furthermore increasing importance"
+      ],
+      [
+        "concepts",
+        "are of",
+        "importance"
+      ],
+      [
+        "uncertainty",
+        "concepts of are",
+        "increasing importance"
+      ],
+      [
+        "uncertainty",
+        "concepts of are",
+        "Furthermore increasing importance"
+      ],
+      [
+        "uncertainty",
+        "concepts of are",
+        "Furthermore importance"
+      ],
+      [
+        "concepts",
+        "are of",
+        "increasing importance"
+      ],
+      [
+        "concepts",
+        "are of",
+        "Furthermore importance"
+      ],
+      [
+        "uncertainty",
+        "quantification of is",
+        "Hence important aspect"
+      ],
+      [
+        "uncertainty",
+        "efficient quantification of is",
+        "important aspect"
+      ],
+      [
+        "efficient quantification",
+        "is",
+        "Hence aspect"
+      ],
+      [
+        "engineer",
+        "of",
+        "workflow"
+      ],
+      [
+        "quantification",
+        "is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "quantification",
+        "is",
+        "Hence important aspect"
+      ],
+      [
+        "efficient quantification",
+        "is aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "efficient quantification",
+        "is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "efficient quantification",
+        "is",
+        "aspect"
+      ],
+      [
+        "quantification",
+        "is",
+        "Hence aspect"
+      ],
+      [
+        "quantification",
+        "is aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "uncertainty",
+        "efficient quantification of is",
+        "Hence important aspect"
+      ],
+      [
+        "uncertainty",
+        "quantification of is",
+        "aspect"
+      ],
+      [
+        "uncertainty",
+        "quantification of is",
+        "Hence aspect"
+      ],
+      [
+        "quantification",
+        "Hence is aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "uncertainty",
+        "efficient quantification of is",
+        "aspect"
+      ],
+      [
+        "quantification",
+        "is",
+        "aspect"
+      ],
+      [
+        "uncertainty",
+        "efficient quantification of is",
+        "Hence aspect"
+      ],
+      [
+        "quantification",
+        "Hence is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "uncertainty",
+        "quantification of is",
+        "important aspect"
+      ],
+      [
+        "efficient quantification",
+        "is",
+        "important aspect"
+      ],
+      [
+        "efficient quantification",
+        "is",
+        "Hence important aspect"
+      ],
+      [
+        "quantification",
+        "is",
+        "important aspect"
+      ],
+      [
+        "efficient quantification",
+        "Hence is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "efficient quantification",
+        "Hence is aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "quantification",
+        "is",
+        "important"
+      ],
+      [
+        "characterization",
+        "is",
+        "crucial"
+      ],
+      [
+        "uncertainty",
+        "is in",
+        "input variables"
+      ],
+      [
+        "characterization",
+        "is crucial In",
+        "context"
+      ],
+      [
+        "input variables",
+        "are",
+        "modelled"
+      ],
+      [
+        "input variables",
+        "are modelled In",
+        "paper"
+      ],
+      [
+        "complexity",
+        "is",
+        "handled"
+      ],
+      [
+        "complexity",
+        "is handled In",
+        "paper"
+      ],
+      [
+        "use",
+        "allows For",
+        "types of probability-boxes"
+      ],
+      [
+        "extensive use",
+        "allows For",
+        "types of probability-boxes"
+      ],
+      [
+        "capabilities",
+        "are illustrated through",
+        "benchmark function"
+      ],
+      [
+        "capabilities",
+        "are",
+        "illustrated"
+      ],
+      [
+        "capabilities",
+        "are illustrated through",
+        "analytical function"
+      ],
+      [
+        "capabilities",
+        "are illustrated through",
+        "benchmark analytical function"
+      ],
+      [
+        "capabilities",
+        "are illustrated through",
+        "function"
+      ]
+    ],
+    "title": "Structural reliability analysis for p-boxes using multi-level meta-models",
+    "abstract": "In modern engineering, computer simulations are a popular tool to analyse, design, and optimize systems. Furthermore, concepts of uncertainty and the related reliability analysis and robust design are of increasing importance. Hence, an efficient quantification of uncertainty is an important aspect of the engineer's workflow. In this context, the characterization of uncertainty in the input variables is crucial. In this paper, input variables are modelled by probability-boxes, which account for both aleatory and epistemic uncertainty. Two types of probability-boxes are distinguished: free and parametric (also called distributional) p-boxes. The use of probability-boxes generally increases the complexity of structural reliability analyses compared to traditional probabilistic input models. In this paper, the complexity is handled by two-level approaches which use Kriging meta-models with adaptive experimental designs at different levels of the structural reliability analysis. For both types of probability-boxes, the extensive use of meta-models allows for an efficient estimation of the failure probability at a limited number of runs of the performance function. The capabilities of the proposed approaches are illustrated through a benchmark analytical function and two realistic engineering problems.",
+    "authors": [
+      "R. Schöbi",
+      " B. Sudret"
+    ],
+    "id": "1705.03947",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "Bigraphical Lasso estimator",
+        "model",
+        "precision matrices of data"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "parsimoniously model",
+        "precision matrices"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "model",
+        "precision matrices of matrix-normal data"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "parsimoniously model",
+        "precision matrices of matrix-normal data"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "parsimoniously model",
+        "precision matrices of data"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "was",
+        "proposed"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "model",
+        "precision matrices"
+      ],
+      [
+        "excellent potential",
+        "improving",
+        "scalability of computation"
+      ],
+      [
+        "potential",
+        "improving",
+        "scalability"
+      ],
+      [
+        "potential",
+        "improving",
+        "scalability of computation of complex data analysis"
+      ],
+      [
+        "sparsity",
+        "number of",
+        "parameters"
+      ],
+      [
+        "model",
+        "enforcing sparsity on",
+        "precision matrix"
+      ],
+      [
+        "model",
+        "enforcing",
+        "sparsity"
+      ],
+      [
+        "model",
+        "enforcing",
+        "number"
+      ],
+      [
+        "excellent potential",
+        "improving",
+        "scalability"
+      ],
+      [
+        "potential",
+        "improving",
+        "scalability of computation"
+      ],
+      [
+        "excellent potential",
+        "improving",
+        "scalability of computation of data analysis"
+      ],
+      [
+        "excellent potential",
+        "improving",
+        "scalability of computation of complex data analysis"
+      ],
+      [
+        "model",
+        "enforcing",
+        "number of parameters"
+      ],
+      [
+        "model",
+        "enforcing",
+        "explicit structures"
+      ],
+      [
+        "model",
+        "enforcing",
+        "structures"
+      ],
+      [
+        "model",
+        "enforcing",
+        "extreme sparsity"
+      ],
+      [
+        "model",
+        "enforcing structures on",
+        "precision matrix"
+      ],
+      [
+        "potential",
+        "improving",
+        "scalability of computation of data analysis"
+      ],
+      [
+        "model",
+        "learn",
+        "precision matrices"
+      ],
+      [
+        "model",
+        "significantly reduces",
+        "size of sample"
+      ],
+      [
+        "model",
+        "reduces",
+        "size"
+      ],
+      [
+        "model",
+        "reduces",
+        "size of sample"
+      ],
+      [
+        "model",
+        "significantly reduces",
+        "size"
+      ],
+      [
+        "we",
+        "extend",
+        "Bigraphical Lasso estimator"
+      ],
+      [
+        "propose",
+        "analogous method for",
+        "modeling"
+      ],
+      [
+        "Bigraphical Lasso",
+        "estimator to",
+        "TEnsor gRAphical Lasso"
+      ],
+      [
+        "Bigraphical Lasso",
+        "propose",
+        "method"
+      ],
+      [
+        "propose",
+        "method for",
+        "modeling"
+      ],
+      [
+        "Bigraphical Lasso",
+        "propose",
+        "analogous method"
+      ],
+      [
+        "Bigraphical Lasso",
+        "propose",
+        "analogous method for modeling"
+      ],
+      [
+        "Bigraphical Lasso",
+        "estimator to",
+        "TeraLasso"
+      ],
+      [
+        "we",
+        "extend",
+        "Bigraphical Lasso estimator to TEnsor gRAphical Lasso"
+      ],
+      [
+        "we",
+        "extend In",
+        "work"
+      ],
+      [
+        "Bigraphical Lasso",
+        "propose",
+        "method for modeling"
+      ],
+      [
+        "We",
+        "establish",
+        "consistency for BiGLasso"
+      ],
+      [
+        "We",
+        "obtain rates in",
+        "operator"
+      ],
+      [
+        "We",
+        "obtain",
+        "rates of convergence"
+      ],
+      [
+        "We",
+        "establish",
+        "consistency"
+      ],
+      [
+        "We",
+        "obtain",
+        "rates"
+      ],
+      [
+        "We",
+        "analyze",
+        "computational convergence rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "geometric rate"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate to minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "geometric rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "geometric rate to minimizer"
+      ],
+      [
+        "gradient descent algorithm",
+        "is",
+        "guaranteed"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate"
+      ],
+      [
+        "We",
+        "analyze",
+        "convergence rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "geometric rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate to minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "rate to minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is",
+        "guaranteed"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate to global minimizer"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "geometric rate to minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate to minimizer"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at geometric rate to minimizer"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate to global minimizer"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "geometric rate"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "is guaranteed",
+        "converge at rate"
+      ],
+      [
+        "gradient descent algorithm",
+        "converge at",
+        "rate to minimizer"
+      ],
+      [
+        "we",
+        "provide analysis",
+        "predicted by theory"
+      ],
+      [
+        "we",
+        "provide",
+        "simulation evidence of dataset"
+      ],
+      [
+        "we",
+        "Finally provide",
+        "simulation evidence of meteorological dataset"
+      ],
+      [
+        "we",
+        "Finally provide analysis",
+        "predicted by theory"
+      ],
+      [
+        "we",
+        "recover",
+        "graphical structures"
+      ],
+      [
+        "we",
+        "Finally provide",
+        "simulation evidence of dataset"
+      ],
+      [
+        "we",
+        "provide",
+        "simulation evidence"
+      ],
+      [
+        "we",
+        "Finally provide",
+        "simulation evidence"
+      ],
+      [
+        "we",
+        "Finally provide analysis",
+        "predicted"
+      ],
+      [
+        "we",
+        "Finally provide",
+        "analysis"
+      ],
+      [
+        "we",
+        "provide analysis",
+        "predicted"
+      ],
+      [
+        "we",
+        "provide",
+        "analysis"
+      ],
+      [
+        "we",
+        "provide simulation evidence",
+        "predicted"
+      ],
+      [
+        "we",
+        "recover",
+        "structures"
+      ],
+      [
+        "we",
+        "Finally provide simulation evidence",
+        "predicted"
+      ],
+      [
+        "we",
+        "provide",
+        "simulation evidence of meteorological dataset"
+      ],
+      [
+        "we",
+        "Finally provide simulation evidence",
+        "predicted by theory"
+      ],
+      [
+        "we",
+        "estimate",
+        "precision matrices"
+      ],
+      [
+        "we",
+        "provide simulation evidence",
+        "predicted by theory"
+      ],
+      [
+        "we",
+        "predicted by",
+        "theory"
+      ]
+    ],
+    "title": "Tensor Graphical Lasso (TeraLasso)",
+    "abstract": "The Bigraphical Lasso estimator was proposed to parsimoniously model the precision matrices of matrix-normal data based on the Cartesian product of graphs. By enforcing extreme sparsity (the number of parameters) and explicit structures on the precision matrix, this model has excellent potential for improving scalability of the computation and interpretability of complex data analysis. As a result, this model significantly reduces the size of the sample in order to learn the precision matrices, and hence the conditional probability models along different coordinates such as space, time and replicates. In this work, we extend the Bigraphical Lasso (BiGLasso) estimator to the TEnsor gRAphical Lasso (TeraLasso) estimator and propose an analogous method for modeling the precision matrix of tensor-valued data. We establish consistency for both the BiGLasso and TeraLasso estimators and obtain the rates of convergence in the operator and Frobenius norm for estimating the precision matrix. We design a scalable gradient descent method for solving the objective function and analyze the computational convergence rate, showing that the composite gradient descent algorithm is guaranteed to converge at a geometric rate to the global minimizer. Finally, we provide simulation evidence and analysis of a meteorological dataset, showing that we can recover graphical structures and estimate the precision matrices, as predicted by theory.",
+    "authors": [
+      "Kristjan Greenewald",
+      " Shuheng Zhou",
+      " Alfred Hero III"
+    ],
+    "id": "1705.03983",
+    "comments": "submitted to journal"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "mixed model prediction approach",
+        "estimating",
+        "area-specific parameters"
+      ],
+      [
+        "mixed model prediction approach",
+        "estimating parameters in",
+        "population"
+      ],
+      [
+        "model prediction approach",
+        "estimating",
+        "quantities"
+      ],
+      [
+        "model prediction approach",
+        "estimating",
+        "area-specific parameters"
+      ],
+      [
+        "mixed model prediction approach",
+        "estimating parameters in",
+        "finite population"
+      ],
+      [
+        "mixed model prediction approach",
+        "estimating",
+        "quantities"
+      ],
+      [
+        "model prediction approach",
+        "estimating parameters in",
+        "population"
+      ],
+      [
+        "model prediction approach",
+        "estimating parameters in",
+        "finite population"
+      ],
+      [
+        "model prediction approach",
+        "is",
+        "attractive"
+      ],
+      [
+        "mixed model prediction approach",
+        "is",
+        "attractive"
+      ],
+      [
+        "model prediction approach",
+        "estimating",
+        "parameters"
+      ],
+      [
+        "mixed model prediction approach",
+        "estimating",
+        "parameters"
+      ],
+      [
+        "approach",
+        "However strongly depends on",
+        "normality assumption of response values"
+      ],
+      [
+        "approach",
+        "depends on",
+        "normality assumption of response values"
+      ],
+      [
+        "we",
+        "often encounter",
+        "non-normal case"
+      ],
+      [
+        "we",
+        "encounter case in",
+        "practice"
+      ],
+      [
+        "we",
+        "often encounter case in",
+        "practice"
+      ],
+      [
+        "approach",
+        "strongly depends on",
+        "normality assumption"
+      ],
+      [
+        "approach",
+        "However depends on",
+        "normality assumption of response values"
+      ],
+      [
+        "approach",
+        "depends on",
+        "normality assumption"
+      ],
+      [
+        "we",
+        "encounter",
+        "case"
+      ],
+      [
+        "approach",
+        "However depends on",
+        "normality assumption"
+      ],
+      [
+        "we",
+        "often encounter",
+        "case"
+      ],
+      [
+        "approach",
+        "However strongly depends on",
+        "normality assumption"
+      ],
+      [
+        "we",
+        "encounter",
+        "non-normal case"
+      ],
+      [
+        "approach",
+        "strongly depends on",
+        "normality assumption of response values"
+      ],
+      [
+        "useful tool",
+        "is In",
+        "case"
+      ],
+      [
+        "observations",
+        "is",
+        "useful"
+      ],
+      [
+        "we",
+        "overcome",
+        "difficulty"
+      ],
+      [
+        "we",
+        "propose",
+        "a"
+      ],
+      [
+        "we",
+        "here propose",
+        "a"
+      ],
+      [
+        "we",
+        "propose",
+        "a new"
+      ],
+      [
+        "we",
+        "here propose",
+        "a new"
+      ],
+      [
+        "We",
+        "suggest",
+        "estimating method for transformation parameters"
+      ],
+      [
+        "We",
+        "suggest",
+        "simple estimating method for transformation parameters"
+      ],
+      [
+        "We",
+        "suggest",
+        "simple estimating method"
+      ],
+      [
+        "We",
+        "suggest",
+        "estimating method"
+      ],
+      [
+        "we",
+        "construct",
+        "empirical Bayes confidence interval of population parameter of interest"
+      ],
+      [
+        "we",
+        "measuring",
+        "variability"
+      ],
+      [
+        "we",
+        "measuring",
+        "variability of point prediction"
+      ],
+      [
+        "we",
+        "construct",
+        "empirical Bayes confidence interval of population parameter"
+      ],
+      [
+        "we",
+        "construct",
+        "Bayes confidence interval of population parameter"
+      ],
+      [
+        "we",
+        "construct",
+        "Bayes confidence interval of population parameter of interest"
+      ],
+      [
+        "we",
+        "construct",
+        "Bayes confidence interval"
+      ],
+      [
+        "we",
+        "construct",
+        "empirical Bayes confidence interval"
+      ],
+      [
+        "we",
+        "investigate",
+        "performances of proposed methods"
+      ],
+      [
+        "we",
+        "investigate",
+        "numerical performances of methods"
+      ],
+      [
+        "we",
+        "investigate",
+        "performances"
+      ],
+      [
+        "we",
+        "investigate",
+        "performances of methods"
+      ],
+      [
+        "we",
+        "investigate performances Through",
+        "simulation studies"
+      ],
+      [
+        "we",
+        "investigate",
+        "numerical performances of proposed methods"
+      ],
+      [
+        "we",
+        "investigate",
+        "numerical performances"
+      ],
+      [
+        "we",
+        "Finally apply method to",
+        "synthetic income data"
+      ],
+      [
+        "we",
+        "apply method to",
+        "income data"
+      ],
+      [
+        "we",
+        "apply",
+        "method"
+      ],
+      [
+        "we",
+        "apply method to",
+        "synthetic income data"
+      ],
+      [
+        "synthetic income data",
+        "is in",
+        "Spanish provinces"
+      ],
+      [
+        "we",
+        "Finally apply",
+        "proposed method"
+      ],
+      [
+        "we",
+        "apply",
+        "proposed method"
+      ],
+      [
+        "we",
+        "Finally apply",
+        "method"
+      ],
+      [
+        "we",
+        "Finally apply method to",
+        "income data"
+      ]
+    ],
+    "title": "Adaptively Transformed Mixed Model Prediction of General Finite Population Parameters",
+    "abstract": "For estimating area-specific parameters (quantities) in a finite population, a mixed model prediction approach is attractive. However, this approach strongly depends on the normality assumption of the response values although we often encounter a non-normal case in practice. In such a case, transforming observations to make them close to normality is a useful tool, but the problem of selecting suitable transformation still remains open. To overcome the difficulty, we here propose a new empirical best predicting method by using a parametric family of transformations to estimate a suitable transformation based on the data. We suggest a simple estimating method for transformation parameters based on the profile likelihood function, which achieves consistency under some conditions on transformation functions. For measuring variability of point prediction, we construct an empirical Bayes confidence interval of the population parameter of interest. Through simulation studies, we investigate some numerical performances of the proposed methods. Finally, we apply the proposed method to synthetic income data in Spanish provinces in which the resulting estimates indicate that the commonly used log-transformation is not appropriate.",
+    "authors": [
+      "Shonosuke Sugasawa",
+      " Tatsuya Kubokawa"
+    ],
+    "id": "1705.04136",
+    "comments": "28 pages"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence of observations viewed as realization of stochastic process"
+      ],
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence of observations viewed as realization of process"
+      ],
+      [
+        "De Facto",
+        "is",
+        "interpolation"
+      ],
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence of observations"
+      ],
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence of observations viewed as realization"
+      ],
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence of observations viewed"
+      ],
+      [
+        "De Facto",
+        "is interpolation of",
+        "sequence"
+      ],
+      [
+        "Its role",
+        "ranges to",
+        "image reconstruction"
+      ],
+      [
+        "scenarios",
+        "is in",
+        "forecasting"
+      ],
+      [
+        "Its role",
+        "ranges from",
+        "scenarios"
+      ],
+      [
+        "Its role",
+        "ranges from",
+        "scenarios in forecasting"
+      ],
+      [
+        "Its role",
+        "is in",
+        "applied statistics"
+      ],
+      [
+        "general solution",
+        "entails",
+        "formidable mathematics"
+      ],
+      [
+        "solution",
+        "entails",
+        "formidable mathematics"
+      ],
+      [
+        "general solution",
+        "entails",
+        "mathematics"
+      ],
+      [
+        "solution",
+        "entails",
+        "mathematics"
+      ],
+      [
+        "Efforts",
+        "circumvent",
+        "mathematics"
+      ],
+      [
+        "computational challenges",
+        "Implementing Kalman Filter Model in",
+        "era of big velocity non-Gaussian data"
+      ],
+      [
+        "challenges",
+        "Implementing Kalman Filter Model in",
+        "era"
+      ],
+      [
+        "challenges",
+        "Implementing Kalman Filter Model in",
+        "era of velocity non-Gaussian data"
+      ],
+      [
+        "computational challenges",
+        "Implementing",
+        "Kalman Filter Model"
+      ],
+      [
+        "computational challenges",
+        "Implementing Kalman Filter Model in",
+        "era"
+      ],
+      [
+        "challenges",
+        "Implementing Kalman Filter Model in",
+        "era of velocity data"
+      ],
+      [
+        "computational challenges",
+        "Implementing Kalman Filter Model in",
+        "era of velocity data"
+      ],
+      [
+        "challenges",
+        "Implementing",
+        "Kalman Filter Model"
+      ],
+      [
+        "challenges",
+        "Implementing Kalman Filter Model in",
+        "era of big velocity non-Gaussian data"
+      ],
+      [
+        "computational challenges",
+        "Implementing Kalman Filter Model in",
+        "era of big velocity data"
+      ],
+      [
+        "computational challenges",
+        "Implementing Kalman Filter Model in",
+        "era of velocity non-Gaussian data"
+      ],
+      [
+        "challenges",
+        "Implementing Kalman Filter Model in",
+        "era of big velocity data"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "expository focus on two versions of particle filter"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "focus on two versions of particle filter namely"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "expository focus on two versions of particle filter namely"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "focus on two versions namely"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "focus on two versions of particle filter"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "focus on two versions"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "expository focus on two versions namely"
+      ],
+      [
+        "particle filter",
+        "of versions is",
+        "propagate first-update next first-propagate next version"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "expository focus on two versions"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "focus"
+      ],
+      [
+        "purpose",
+        "trace",
+        "evolution"
+      ],
+      [
+        "purpose",
+        "trace evolution with",
+        "expository focus"
+      ],
+      [
+        "paper",
+        "also makes",
+        "importance"
+      ],
+      [
+        "paper",
+        "makes",
+        "importance in filtering"
+      ],
+      [
+        "paper",
+        "makes",
+        "transparent importance in filtering"
+      ],
+      [
+        "paper",
+        "makes",
+        "principle of conditionalization"
+      ],
+      [
+        "importance",
+        "principle of",
+        "conditionalization"
+      ],
+      [
+        "paper",
+        "makes",
+        "principle"
+      ],
+      [
+        "paper",
+        "also makes",
+        "namely principle of conditionalization"
+      ],
+      [
+        "paper",
+        "also makes",
+        "namely principle"
+      ],
+      [
+        "paper",
+        "also makes",
+        "principle of conditionalization"
+      ],
+      [
+        "paper",
+        "makes",
+        "namely principle"
+      ],
+      [
+        "importance",
+        "is in",
+        "filtering"
+      ],
+      [
+        "paper",
+        "makes",
+        "transparent importance"
+      ],
+      [
+        "filtering",
+        "in importance is",
+        "namely principle of conditionalization"
+      ],
+      [
+        "paper",
+        "makes importance By",
+        "way going beyond review"
+      ],
+      [
+        "paper",
+        "makes",
+        "namely principle of conditionalization"
+      ],
+      [
+        "paper",
+        "also makes",
+        "importance in filtering"
+      ],
+      [
+        "paper",
+        "makes importance By",
+        "way going beyond pure review"
+      ],
+      [
+        "paper",
+        "also makes",
+        "principle"
+      ],
+      [
+        "paper",
+        "also makes importance By",
+        "way going"
+      ],
+      [
+        "paper",
+        "also makes importance By",
+        "way going beyond pure review"
+      ],
+      [
+        "paper",
+        "makes importance By",
+        "way going"
+      ],
+      [
+        "paper",
+        "makes",
+        "importance"
+      ],
+      [
+        "paper",
+        "also makes importance By",
+        "way going beyond review"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition in terms of sequence of innovations"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition in terms"
+      ],
+      [
+        "Yule",
+        "has",
+        "decomposition of random variable in terms of sequence of innovations"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition in terms of sequence"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of variable in terms"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of variable in terms of sequence"
+      ],
+      [
+        "Yule 's decomposition",
+        "is in",
+        "terms of sequence of innovations"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of random variable in terms of sequence"
+      ],
+      [
+        "paper",
+        "articulates",
+        "underpinnings of set-up"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of random variable in terms"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of random variable"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of variable in terms of sequence of innovations"
+      ],
+      [
+        "paper",
+        "articulates",
+        "underpinnings of filtering set-up"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of variable"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition"
+      ],
+      [
+        "paper",
+        "articulates",
+        "Yule 's decomposition of random variable in terms of sequence of innovations"
+      ],
+      [
+        "paper",
+        "articulates",
+        "underpinnings"
+      ]
+    ],
+    "title": "From Least Squares to Signal Processing and Particle Filtering",
+    "abstract": "De Facto, signal processing is the interpolation and extrapolation of a sequence of observations viewed as a realization of a stochastic process. Its role in applied statistics ranges from scenarios in forecasting and time series analysis, to image reconstruction, machine learning, and the degradation modeling for reliability assessment. A general solution to the problem of filtering and prediction entails some formidable mathematics. Efforts to circumvent the mathematics has resulted in the need for introducing more explicit descriptions of the underlying process. One such example, and a noteworthy one, is the Kalman Filter Model, which is a special case of state space models or what statisticians refer to as Dynamic Linear Models. Implementing the Kalman Filter Model in the era of \"big and high velocity non-Gaussian data\" can pose computational challenges with respect to efficiency and timeliness. Particle filtering is a way to ease such computational burdens. The purpose of this paper is to trace the historical evolution of this development from its inception to its current state, with an expository focus on two versions of the particle filter, namely, the propagate first-update next and the update first-propagate next version. By way of going beyond a pure review, this paper also makes transparent the importance and the role of a less recognized principle, namely the principle of conditionalization, in filtering and prediction based on Bayesian methods. Furthermore, the paper also articulates the philosophical underpinnings of the filtering and prediction set-up, a matter that needs to ne made explicit, and Yule's decomposition of a random variable in terms of a sequence of innovations.",
+    "authors": [
+      "Nozer D. Singpurwalla",
+      " Nicholas G. Polson",
+      " Refik Soyer"
+    ],
+    "id": "1705.04141",
+    "comments": null
+  }
+]
