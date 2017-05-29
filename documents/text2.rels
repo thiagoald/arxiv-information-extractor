@@ -1,0 +1,28 @@
+Text 2:
+Modern reconstruction methods for magnetic resonance imaging (MRI) exploit the spatially varying sensitivity profiles of receive-coil arrays as additional source of information. This allows to reduce the number of time-consuming Fourier-encoding steps by undersampling. The receive sensitivities are a priori unknown and influenced by geometry and electric properties of the (moving) subject. For optimal results, they need to be estimated jointly with the image from the same undersampled measurement data. Formulated as an inverse problem, this leads to a bilinear reconstruction problem related to multi-channel blind deconvolution. In this work, we will discuss some recently developed approaches for the solution of this problem.
+
+Modern reconstruction methods for magnetic resonance imaging (MRI)
+exploit
+the spatially varying sensitivity profiles of receive-coil arrays as additional source of information
+
+This
+allows
+to reduce the number of time-consuming Fourier-encoding steps by undersampling
+
+The receive sensitivities
+are
+a priori unknown and influenced by geometry and electric properties of the (moving) subject
+
+they need
+to be
+estimated jointly with the image from the same undersampled measurement data.
+
+Formulated as an inverse problem, this
+leads to
+a bilinear reconstruction problem related to multi-channel blind deconvolution
+
+In this work
+we will discuss
+some recently developed approaches for the solution of this problem
+
+Total: 6
