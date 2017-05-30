@@ -1,0 +1,999 @@
+[
+  {
+    "journalRef": null,
+    "subjects": [
+      " Information Theory (cs.IT)"
+    ],
+    "relations": [
+      [
+        "baseband processing unit",
+        "in unit is",
+        "CU"
+      ],
+      [
+        "control unit",
+        "is in",
+        "baseband processing unit"
+      ],
+      [
+        "requested files",
+        "are",
+        "served"
+      ],
+      [
+        "file",
+        "is in",
+        "content library"
+      ],
+      [
+        "Extensive numerical results",
+        "are",
+        "provided"
+      ]
+    ],
+    "title": "Coded Multicast Fronthauling and Edge Caching for Multi-Connectivity Transmission in Fog Radio Access Networks",
+    "abstract": "This work studies the advantages of coded multicasting for the downlink of a Fog Radio Access Network (F-RAN) system equipped with a multicast fronthaul link. In this system, a control unit (CU) in the baseband processing unit (BBU) pool is connected to distributed edge nodes (ENs) through a multicast fronthaul link of finite capacity, and the ENs have baseband processing and caching capabilities. Each user equipment (UE) requests a file in a content library which is available at the CU, and the requested files are served by the closest ENs based on the cached contents and on the information received on the multicast fronthaul link. The performance of coded multicast fronthauling is investigated in terms of the delivery latency of the requested contents under the assumption of pipelined transmission on the fronthaul and edge links and of single-user encoding and decoding strategies based on the hard transfer of files on the fronthaul links. Extensive numerical results are provided to validate the advantages of the coded multicasting scheme compared to uncoded unicast and multicast strategies.",
+    "authors": [
+      "Seok-Hwan Park",
+      " Osvaldo Simeone",
+      " Wonju Lee",
+      " Shlomo Shamai (Shitz)"
+    ],
+    "id": "1705.04070",
+    "comments": "to appear in Proc. IEEE SPAWC 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Information Theory (cs.IT)",
+      " Computational Engineering, Finance, and Science (cs.CE)",
+      " Optimization and Control (math.OC)",
+      " Instrumentation and Detectors (physics.ins-det)",
+      " Medical Physics (physics.med-ph)"
+    ],
+    "relations": [],
+    "title": "Autocalibrating and Calibrationless Parallel Magnetic Resonance Imaging as a Bilinear Inverse Problem",
+    "abstract": "Modern reconstruction methods for magnetic resonance imaging (MRI) exploit the spatially varying sensitivity profiles of receive-coil arrays as additional source of information. This allows to reduce the number of time-consuming Fourier-encoding steps by undersampling. The receive sensitivities are a priori unknown and influenced by geometry and electric properties of the (moving) subject. For optimal results, they need to be estimated jointly with the image from the same undersampled measurement data. Formulated as an inverse problem, this leads to a bilinear reconstruction problem related to multi-channel blind deconvolution. In this work, we will discuss some recently developed approaches for the solution of this problem.",
+    "authors": [
+      "Martin Uecker"
+    ],
+    "id": "1705.04081",
+    "comments": "3 pages, 3 figures, 12th International Conference on Sampling Theory and Applications, Tallinn 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computer Vision and Pattern Recognition (cs.CV)",
+      " Robotics (cs.RO)"
+    ],
+    "relations": [
+      [
+        "on-board perception systems",
+        "is in",
+        "vehicles"
+      ],
+      [
+        "We",
+        "present",
+        "method for extrinsic calibration of lidar-stereo camera pairs"
+      ],
+      [
+        "we",
+        "demonstrate",
+        "performance"
+      ],
+      [
+        "we",
+        "demonstrate",
+        "performance of our method"
+      ],
+      [
+        "Tests",
+        "using",
+        "real devices"
+      ],
+      [
+        "Tests",
+        "using",
+        "devices"
+      ],
+      [
+        "Code",
+        "is",
+        "available"
+      ],
+      [
+        "Code",
+        "is available at",
+        "https://github.com/beltransen/velo2cam_calibration"
+      ]
+    ],
+    "title": "Automatic Extrinsic Calibration for Lidar-Stereo Vehicle Sensor Setups",
+    "abstract": "Sensor setups consisting of a combination of 3D range scanner lasers and stereo vision systems are becoming a popular choice for on-board perception systems in vehicles; however, the combined use of both sources of information implies a tedious calibration process. We present a method for extrinsic calibration of lidar-stereo camera pairs without user intervention. Our calibration approach is aimed to cope with the constraints commonly found in automotive setups, such as low-resolution and specific sensor poses. To demonstrate the performance of our method, we also introduce a novel approach for the quantitative assessment of the calibration results, based on a simulation environment. Tests using real devices have been conducted as well, proving the usability of the system and the improvement over the existing approaches. Code is available at https://github.com/beltransen/velo2cam_calibration.",
+    "authors": [
+      "Carlos Guindel",
+      " Jorge Beltrán",
+      " David Martín",
+      " Fernando García"
+    ],
+    "id": "1705.04085",
+    "comments": "Submitted to International Conference on Intelligent Transportation Systems 2017"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "relations": [
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in clothing"
+      ],
+      [
+        "first image-based generative model",
+        "is in",
+        "clothing"
+      ],
+      [
+        "We",
+        "present",
+        "first image-based generative model of people in clothing in full-body setting"
+      ],
+      [
+        "first image-based generative model",
+        "is in",
+        "full-body setting"
+      ],
+      [
+        "We",
+        "sidestep",
+        "commonly used complex graphics"
+      ],
+      [
+        "high variance",
+        "is in",
+        "human pose"
+      ],
+      [
+        "challenge",
+        "be",
+        "overcome"
+      ],
+      [
+        "generating process",
+        "is in",
+        "two parts"
+      ],
+      [
+        "we",
+        "generate",
+        "semantic segmentation"
+      ],
+      [
+        "we",
+        "Second learn",
+        "conditional model"
+      ],
+      [
+        "people",
+        "is in",
+        "different clothing items"
+      ],
+      [
+        "result",
+        "are",
+        "samples"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely new people with realistic clothing"
+      ],
+      [
+        "new people",
+        "is with",
+        "realistic clothing"
+      ],
+      [
+        "proposed model",
+        "can generate",
+        "entirely new people"
+      ],
+      [
+        "generation",
+        "is",
+        "possible"
+      ]
+    ],
+    "title": "A Generative Model of People in Clothing",
+    "abstract": "We present the first image-based generative model of people in clothing in a full-body setting. We sidestep the commonly used complex graphics rendering pipeline and the need for high-quality 3D scans of dressed people. Instead, we learn generative models from a large image database. The main challenge is to cope with the high variance in human pose, shape and appearance. For this reason, pure image-based approaches have not been considered so far. We show that this challenge can be overcome by splitting the generating process in two parts. First, we learn to generate a semantic segmentation of the body and clothing. Second, we learn a conditional model on the resulting segments that creates realistic images. The full model is differentiable and can be conditioned on pose, shape or color. The result are samples of people in different clothing items and styles. The proposed model can generate entirely new people with realistic clothing. In several experiments we present encouraging results that suggest an entirely data-driven approach to people generation is possible.",
+    "authors": [
+      "Christoph Lassner",
+      " Gerard Pons-Moll",
+      " Peter V. Gehler"
+    ],
+    "id": "1705.04098",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Emerging Technologies (cs.ET)"
+    ],
+    "relations": [
+      [
+        "basic gates",
+        "is in",
+        "QCA"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology for optimal QCA circuit synthesis of arbitrary multi-output boolean functions"
+      ],
+      [
+        "paper",
+        "proposes",
+        "efficient methodology"
+      ],
+      [
+        "based approach",
+        "is",
+        "used"
+      ],
+      [
+        "based approach",
+        "reduce",
+        "gate count"
+      ],
+      [
+        "importance",
+        "is",
+        "given"
+      ],
+      [
+        "Different importance",
+        "is",
+        "given"
+      ],
+      [
+        "Different importance",
+        "is given to",
+        "no"
+      ],
+      [
+        "methodologies",
+        "eliminate redundancies from",
+        "final solution"
+      ],
+      [
+        "additional methodologies",
+        "eliminate redundancies from",
+        "final solution"
+      ],
+      [
+        "additional methodologies",
+        "are",
+        "furthermore used"
+      ],
+      [
+        "Several efficient techniques",
+        "are",
+        "used"
+      ],
+      [
+        "optimal result",
+        "reduce",
+        "computational complexity"
+      ],
+      [
+        "obtained results",
+        "is with",
+        "existing best techniques"
+      ]
+    ],
+    "title": "Synthesis and Optimization of Multi-Objective Multi-Output QCA Circuit using Genetic Algorithm",
+    "abstract": "The physical limitations of CMOS technology triggered several research for finding an alternative technology. QCA is one of the emerging nanotechnologies which is gaining attention as a substitute of CMOS. The main potential of QCA is its ultra low power consumption, less area overhead, and high speed. Majority and inverter gates are the basic gates in QCA,which together works as a universal logic gate to implement any QCA circuit. This paper proposes an efficient methodology for optimal QCA circuit synthesis of arbitrary multi-output boolean functions. A multi-objective genetic algorithm based approach is used to reduce worst case delay and gate count of a QCA circuit. Different importance is given to worst case delay, no. of majority and no. of inverter gates. Several efficient techniques are used in order to achieve the optimal result and reduce the computational complexity furthermore additional methodologies are used to eliminate redundancies from the final solution. Comparison of the obtained results with the existing best techniques indicates, the proposed technique outperforms in terms of worst case delay and gate count.",
+    "authors": [
+      "Mahabub Hasan Mahalat",
+      " Mrinal Goswami",
+      " Anindan Mondal",
+      " Bibhash Sen"
+    ],
+    "id": "1705.04099",
+    "comments": "5 tables, 9 figures"
+  },
+  {
+    "journalRef": " Opt. Express 25, 11452-11465 (2017)",
+    "subjects": [
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "use",
+        "is in",
+        "wave-front reconstruction"
+      ],
+      [
+        "fulfilling",
+        "requirements of",
+        "FFT"
+      ],
+      [
+        "we",
+        "fulfilling",
+        "requirements"
+      ],
+      [
+        "we",
+        "providing",
+        "reconstruction"
+      ],
+      [
+        "we",
+        "providing",
+        "accurate reconstruction"
+      ],
+      [
+        "increase",
+        "is in",
+        "performance"
+      ],
+      [
+        "reduction",
+        "is in",
+        "noise propagation"
+      ],
+      [
+        "simulations",
+        "using method with",
+        "previous Fourier methods"
+      ],
+      [
+        "increase",
+        "is in",
+        "terms of Strehl ratio"
+      ],
+      [
+        "simulations",
+        "using",
+        "method"
+      ],
+      [
+        "closed loop operation",
+        "is with",
+        "minimal iterations"
+      ],
+      [
+        "improvement",
+        "is in",
+        "Strehl"
+      ],
+      [
+        "96.9 %",
+        "is in",
+        "K-band"
+      ],
+      [
+        "increase",
+        "is in",
+        "contrast towards edge of correctable band"
+      ],
+      [
+        "This",
+        "~",
+        "40 nm improvement in rms"
+      ],
+      [
+        "40 nm improvement",
+        "is in",
+        "rms"
+      ]
+    ],
+    "title": "Iterative wave-front reconstruction in the Fourier domain",
+    "abstract": "The use of Fourier methods in wave-front reconstruction can significantly reduce the computation time for large telescopes with a high number of degrees of freedom. However, Fourier algorithms for discrete data require a rectangular data set which conform to specific boundary requirements, whereas wave-front sensor data is typically defined over a circular domain (the telescope pupil). Here we present an iterative Gerchberg routine modified for the purposes of discrete wave-front reconstruction which adapts the measurement data (wave-front sensor slopes) for Fourier analysis, fulfilling the requirements of the Fast Fourier Transform (FFT) and providing accurate reconstruction. The routine is used in the adaptation step only and can be coupled to any other Wiener-like or least-squares method. We compare simulations using this method with previous Fourier methods and show an increase in performance in terms of Strehl ratio and a reduction in noise propagation for a 40x40 SPHERE-like adaptive optics system. For closed loop operation with minimal iterations the Gerchberg method provides an improvement in Strehl, from 95.4% to 96.9% in K-band. This corresponds to ~40 nm improvement in rms, and avoids the high spatial frequency errors present in other methods, providing an increase in contrast towards the edge of the correctable band.",
+    "authors": [
+      "Charlotte Z. Bond",
+      " Carlos M. Correia",
+      " Jean-François Sauvage",
+      " Benoit Neichel",
+      " Thierry Fusco"
+    ],
+    "id": "1705.04298",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "XMM-Newton",
+        "is direct precursor of",
+        "future ESA ATHENA mission"
+      ],
+      [
+        "XMM-Newton",
+        "is",
+        "direct precursor"
+      ],
+      [
+        "12 years",
+        "products from",
+        "third XMM-Newton catalog"
+      ],
+      [
+        "we",
+        "study",
+        "different components"
+      ],
+      [
+        "we",
+        "study",
+        "different components of background"
+      ]
+    ],
+    "title": "A Systematic Analysis of the XMM-Newton Background: I. Dataset and Extraction Procedures",
+    "abstract": "XMM-Newton is the direct precursor of the future ESA ATHENA mission. A study of its particle-induced background provides therefore significant insight for the ATHENA mission design. We make use of about 12 years of data, products from the third XMM-Newton catalog as well as FP7 EXTraS project to avoid celestial sources contamination and to disentangle the different components of the XMM-Newton particle-induced background. Within the ESA R&D AREMBES collaboration, we built new analysis pipelines to study the different components of this background: this covers time behavior as well as spectral and spatial characteristics.",
+    "authors": [
+      "Martino Marelli",
+      " David Salvetti",
+      " Fabio Gastaldello",
+      " Simona Ghizzardi",
+      " Silvano Molendi",
+      " Andrea De Luca",
+      " Alberto Moretti",
+      " Mariachiara Rossetti",
+      " Andrea Tiengo"
+    ],
+    "id": "1705.04171",
+    "comments": "To appear in Experimental Astronomy, presented at AHEAD Background Workshop, 28-30 November 2016, Rome, Italy. 12 pages, 6 figures"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "We",
+        "present",
+        "accurate characterization of particle background behaviour"
+      ],
+      [
+        "detector",
+        "is with",
+        "region of field of view"
+      ],
+      [
+        "Its origin",
+        "be",
+        "investigated"
+      ],
+      [
+        "Its origin",
+        "be",
+        "further investigated"
+      ]
+    ],
+    "title": "A Systematic Analysis of the XMM-Newton Background: II. Properties of the in-Field-Of-View Excess Component",
+    "abstract": "We present an accurate characterization of the particle background behaviour on XMM-Newton based on the entire EPIC archive. This corresponds to the largest EPIC data set ever examined. Our results have been obtained thanks to the collaboration between the FP7 European program EXTraS and the ESA R&D ATHENA activity AREMBES. We used as a diagnostic an improved version of the diagnostic which compares the data collected in unexposed region of the detector with the region of the field of view in the EPIC-MOS. We will show that the in Field-of-View excess background is made up of two different components, one associated to flares produced by soft protons and the other one to a low-intensity background. Its origin needs to be further investigated.",
+    "authors": [
+      "D. Salvetti",
+      " M. Marelli",
+      " F. Gastaldello",
+      " S. Ghizzardi",
+      " S. Molendi",
+      " A. De Luca",
+      " A. Moretti",
+      " M. Rossetti",
+      " A. Tiengo"
+    ],
+    "id": "1705.04172",
+    "comments": "10 pages, 6 figures, to appear in Experimental Astronomy. Presented at AHEAD Background Workshop, 28-30 November 2016, Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "background",
+        "be",
+        "variable"
+      ],
+      [
+        "background",
+        "be",
+        "highly variable"
+      ],
+      [
+        "background",
+        "detected by",
+        "instruments"
+      ],
+      [
+        "particle",
+        "induced",
+        "background"
+      ],
+      [
+        "particle",
+        "induced",
+        "background detected by instruments"
+      ],
+      [
+        "concerning",
+        "influence of",
+        "magnetospheric environment"
+      ],
+      [
+        "We",
+        "present",
+        "results"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment"
+      ],
+      [
+        "results",
+        "concerning",
+        "influence of magnetospheric environment on background detected by EPIC instrument onboard XMM-Newton through estimate of variation of in-Field-of-View background excess along XMM-Newton orbit"
+      ],
+      [
+        "low-intensity component",
+        "is present Along with",
+        "flaring component"
+      ],
+      [
+        "low-intensity component",
+        "is also present Along with",
+        "flaring component"
+      ],
+      [
+        "strong trend",
+        "is with",
+        "distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "strong trend with",
+        "distance from Earth"
+      ],
+      [
+        "proton component",
+        "shows",
+        "strong trend with distance from Earth"
+      ],
+      [
+        "soft proton component",
+        "shows",
+        "strong trend with distance from Earth"
+      ],
+      [
+        "proton component",
+        "strong trend with",
+        "distance from Earth"
+      ]
+    ],
+    "title": "A systematic analysis of the XMM-Newton background: III. Impact of the magnetospheric environment",
+    "abstract": "A detailed characterization of the particle induced background is fundamental for many of the scientific objectives of the Athena X-ray telescope, thus an adequate knowledge of the background that will be encountered by Athena is desirable. Current X-ray telescopes have shown that the intensity of the particle induced background can be highly variable. Different regions of the magnetosphere can have very different environmental conditions, which can, in principle, differently affect the particle induced background detected by the instruments. We present results concerning the influence of the magnetospheric environment on the background detected by EPIC instrument onboard XMM-Newton through the estimate of the variation of the in-Field-of-View background excess along the XMM-Newton orbit. An important contribution to the XMM background, which may affect the Athena background as well, comes from soft proton flares. Along with the flaring component a low-intensity component is also present. We find that both show modest variations in the different magnetozones and that the soft proton component shows a strong trend with the distance from Earth.",
+    "authors": [
+      "Simona Ghizzardi",
+      " Martino Marelli",
+      " David Salvetti",
+      " Fabio Gastaldello",
+      " Silvano Molendi",
+      " Andrea De Luca",
+      " Alberto Moretti",
+      " Mariachiara Rossetti",
+      " Andrea Tiengo"
+    ],
+    "id": "1705.04173",
+    "comments": "To appear in Experimental Astronomy. Presented at AHEAD Background Workshop, 28-30 November 2016. Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "relations": [
+      [
+        "We",
+        "show",
+        "results"
+      ]
+    ],
+    "title": "A systematic analysis of the XMM-Newton background: IV. Origin of the unfocused and focused components",
+    "abstract": "We show the results obtained in the FP7 European program EXTraS and in the ESA R&D ATHENA activity AREMBES aimed at a deeper understanding of the XMM-Newton background to better design the ATHENA mission. Thanks to an analysis of the full EPIC archive coupled to the information obtained by the Radiation Monitor we show the cosmic ray origin of the unfocused particle background and its anti-correlation with the solar activity. We show the first results of the effort to obtain informations about the particle component of the soft proton focused background.",
+    "authors": [
+      "F. Gastaldello",
+      " S. Ghizzardi",
+      " M. Marelli",
+      " D. Salvetti",
+      " S. Molendi",
+      " A. De Luca",
+      " A. Moretti",
+      " M. Rossetti",
+      " A. Tiengo"
+    ],
+    "id": "1705.04174",
+    "comments": "To appear in Experimental Astronomy. Presented ad AHEAD Background Workshop, 28-30 November 2016, Rome, Italy"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)",
+      " Quantitative Methods (q-bio.QM)",
+      " Applications (stat.AP)",
+      " Machine Learning (stat.ML)"
+    ],
+    "relations": [
+      [
+        "pressing issues",
+        "is in",
+        "life sciences"
+      ],
+      [
+        "many applications",
+        "is in",
+        "neuroimaging"
+      ],
+      [
+        "sample size",
+        "number of",
+        "explanatory variables"
+      ],
+      [
+        "datasets",
+        "are",
+        "where typically high-dimensional"
+      ],
+      [
+        "it",
+        "Thus has gained popularity as",
+        "tool for testing multiple hypotheses"
+      ],
+      [
+        "analysis",
+        "is",
+        "statistical"
+      ],
+      [
+        "sparse CCA",
+        "extends",
+        "classical method"
+      ],
+      [
+        "proposed FDR correction",
+        "directly influences",
+        "sparsity of solution"
+      ],
+      [
+        "proposed FDR correction",
+        "adapting",
+        "it"
+      ],
+      [
+        "our procedure",
+        "FDR of",
+        "canonical vectors"
+      ],
+      [
+        "our procedure",
+        "indeed keeps FDR below",
+        "user-specified target level"
+      ],
+      [
+        "We",
+        "apply method to",
+        "imaging genomics dataset from Philadelphia Neurodevelopmental Cohort"
+      ],
+      [
+        "Our results",
+        "link brain activity during",
+        "working memory task"
+      ],
+      [
+        "Our results",
+        "measured to",
+        "corresponding subjects ' genomic data"
+      ],
+      [
+        "Our findings",
+        "are supported by",
+        "previous work"
+      ],
+      [
+        "Our findings",
+        "are",
+        "supported"
+      ]
+    ],
+    "title": "FDR-Corrected Sparse Canonical Correlation Analysis with Applications to Imaging Genomics",
+    "abstract": "Reducing the number of false positive discoveries is presently one of the most pressing issues in the life sciences. It is of especially great importance for many applications in neuroimaging and genomics, where datasets are typically high-dimensional, which means that the number of explanatory variables exceeds the sample size. The false discovery rate (FDR) is a criterion that can be employed to address that issue. Thus it has gained great popularity as a tool for testing multiple hypotheses. Canonical correlation analysis (CCA) is a statistical technique that is used to make sense of the cross-correlation of two sets of measurements collected on the same set of samples (e.g., brain imaging and genomic data for the same mental illness patients), and sparse CCA extends the classical method to high-dimensional settings. Here we propose a way of applying the FDR concept to sparse CCA, and a method to control the FDR. The proposed FDR correction directly influences the sparsity of the solution, adapting it to the unknown true sparsity level. Theoretical derivation as well as simulation studies show that our procedure indeed keeps the FDR of the canonical vectors below a user-specified target level. We apply the proposed method to an imaging genomics dataset from the Philadelphia Neurodevelopmental Cohort. Our results link the brain activity during a working memory task, as measured by functional magnetic resonance imaging (fMRI), to the corresponding subjects' genomic data. Our findings are supported by previous work on cognitive ability, neurodevelopmental, and other mental disorders.",
+    "authors": [
+      "Alexej Gossmann",
+      " Pascal Zille",
+      " Vince Calhoun",
+      " Yu-Ping Wang"
+    ],
+    "id": "1705.04312",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Computation (stat.CO)"
+    ],
+    "relations": [
+      [
+        "simulations",
+        "are",
+        "popular"
+      ],
+      [
+        "popular tool",
+        "is In",
+        "modern engineering"
+      ],
+      [
+        "engineer",
+        "of",
+        "workflow"
+      ],
+      [
+        "quantification",
+        "Hence is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "efficient quantification",
+        "Hence is important aspect of",
+        "engineer 's workflow"
+      ],
+      [
+        "quantification",
+        "is",
+        "important"
+      ],
+      [
+        "uncertainty",
+        "is in",
+        "input variables"
+      ],
+      [
+        "characterization",
+        "is crucial In",
+        "context"
+      ],
+      [
+        "input variables",
+        "are modelled In",
+        "paper"
+      ],
+      [
+        "complexity",
+        "is handled In",
+        "paper"
+      ]
+    ],
+    "title": "Structural reliability analysis for p-boxes using multi-level meta-models",
+    "abstract": "In modern engineering, computer simulations are a popular tool to analyse, design, and optimize systems. Furthermore, concepts of uncertainty and the related reliability analysis and robust design are of increasing importance. Hence, an efficient quantification of uncertainty is an important aspect of the engineer's workflow. In this context, the characterization of uncertainty in the input variables is crucial. In this paper, input variables are modelled by probability-boxes, which account for both aleatory and epistemic uncertainty. Two types of probability-boxes are distinguished: free and parametric (also called distributional) p-boxes. The use of probability-boxes generally increases the complexity of structural reliability analyses compared to traditional probabilistic input models. In this paper, the complexity is handled by two-level approaches which use Kriging meta-models with adaptive experimental designs at different levels of the structural reliability analysis. For both types of probability-boxes, the extensive use of meta-models allows for an efficient estimation of the failure probability at a limited number of runs of the performance function. The capabilities of the proposed approaches are illustrated through a benchmark analytical function and two realistic engineering problems.",
+    "authors": [
+      "R. Schöbi",
+      " B. Sudret"
+    ],
+    "id": "1705.03947",
+    "comments": null
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "Bigraphical Lasso estimator",
+        "parsimoniously model",
+        "precision matrices"
+      ],
+      [
+        "Bigraphical Lasso estimator",
+        "was",
+        "proposed"
+      ],
+      [
+        "sparsity",
+        "number of",
+        "parameters"
+      ],
+      [
+        "model",
+        "learn",
+        "precision matrices"
+      ],
+      [
+        "we",
+        "extend In",
+        "work"
+      ],
+      [
+        "We",
+        "analyze",
+        "computational convergence rate"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "is",
+        "guaranteed"
+      ],
+      [
+        "composite gradient descent algorithm",
+        "converge at",
+        "geometric rate to global minimizer"
+      ],
+      [
+        "We",
+        "analyze",
+        "convergence rate"
+      ],
+      [
+        "we",
+        "estimate",
+        "precision matrices"
+      ],
+      [
+        "we",
+        "predicted by",
+        "theory"
+      ]
+    ],
+    "title": "Tensor Graphical Lasso (TeraLasso)",
+    "abstract": "The Bigraphical Lasso estimator was proposed to parsimoniously model the precision matrices of matrix-normal data based on the Cartesian product of graphs. By enforcing extreme sparsity (the number of parameters) and explicit structures on the precision matrix, this model has excellent potential for improving scalability of the computation and interpretability of complex data analysis. As a result, this model significantly reduces the size of the sample in order to learn the precision matrices, and hence the conditional probability models along different coordinates such as space, time and replicates. In this work, we extend the Bigraphical Lasso (BiGLasso) estimator to the TEnsor gRAphical Lasso (TeraLasso) estimator and propose an analogous method for modeling the precision matrix of tensor-valued data. We establish consistency for both the BiGLasso and TeraLasso estimators and obtain the rates of convergence in the operator and Frobenius norm for estimating the precision matrix. We design a scalable gradient descent method for solving the objective function and analyze the computational convergence rate, showing that the composite gradient descent algorithm is guaranteed to converge at a geometric rate to the global minimizer. Finally, we provide simulation evidence and analysis of a meteorological dataset, showing that we can recover graphical structures and estimate the precision matrices, as predicted by theory.",
+    "authors": [
+      "Kristjan Greenewald",
+      " Shuheng Zhou",
+      " Alfred Hero III"
+    ],
+    "id": "1705.03983",
+    "comments": "submitted to journal"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "mixed model prediction approach",
+        "estimating",
+        "quantities"
+      ],
+      [
+        "approach",
+        "However strongly depends on",
+        "normality assumption of response values"
+      ],
+      [
+        "useful tool",
+        "is In",
+        "case"
+      ],
+      [
+        "observations",
+        "is",
+        "useful"
+      ],
+      [
+        "we",
+        "overcome",
+        "difficulty"
+      ],
+      [
+        "we",
+        "measuring",
+        "variability"
+      ],
+      [
+        "we",
+        "measuring",
+        "variability of point prediction"
+      ],
+      [
+        "synthetic income data",
+        "is in",
+        "Spanish provinces"
+      ],
+      [
+        "we",
+        "Finally apply",
+        "proposed method"
+      ]
+    ],
+    "title": "Adaptively Transformed Mixed Model Prediction of General Finite Population Parameters",
+    "abstract": "For estimating area-specific parameters (quantities) in a finite population, a mixed model prediction approach is attractive. However, this approach strongly depends on the normality assumption of the response values although we often encounter a non-normal case in practice. In such a case, transforming observations to make them close to normality is a useful tool, but the problem of selecting suitable transformation still remains open. To overcome the difficulty, we here propose a new empirical best predicting method by using a parametric family of transformations to estimate a suitable transformation based on the data. We suggest a simple estimating method for transformation parameters based on the profile likelihood function, which achieves consistency under some conditions on transformation functions. For measuring variability of point prediction, we construct an empirical Bayes confidence interval of the population parameter of interest. Through simulation studies, we investigate some numerical performances of the proposed methods. Finally, we apply the proposed method to synthetic income data in Spanish provinces in which the resulting estimates indicate that the commonly used log-transformation is not appropriate.",
+    "authors": [
+      "Shonosuke Sugasawa",
+      " Tatsuya Kubokawa"
+    ],
+    "id": "1705.04136",
+    "comments": "28 pages"
+  },
+  {
+    "journalRef": null,
+    "subjects": [
+      " Methodology (stat.ME)"
+    ],
+    "relations": [
+      [
+        "scenarios",
+        "is in",
+        "forecasting"
+      ],
+      [
+        "Its role",
+        "is in",
+        "applied statistics"
+      ],
+      [
+        "Efforts",
+        "circumvent",
+        "mathematics"
+      ],
+      [
+        "computational challenges",
+        "Implementing",
+        "Kalman Filter Model"
+      ],
+      [
+        "particle filter",
+        "of versions is",
+        "propagate first-update next first-propagate next version"
+      ],
+      [
+        "importance",
+        "principle of",
+        "conditionalization"
+      ],
+      [
+        "importance",
+        "is in",
+        "filtering"
+      ],
+      [
+        "filtering",
+        "in importance is",
+        "namely principle of conditionalization"
+      ],
+      [
+        "Yule 's decomposition",
+        "is in",
+        "terms of sequence of innovations"
+      ],
+      [
+        "Yule",
+        "has",
+        "decomposition of random variable in terms of sequence of innovations"
+      ]
+    ],
+    "title": "From Least Squares to Signal Processing and Particle Filtering",
+    "abstract": "De Facto, signal processing is the interpolation and extrapolation of a sequence of observations viewed as a realization of a stochastic process. Its role in applied statistics ranges from scenarios in forecasting and time series analysis, to image reconstruction, machine learning, and the degradation modeling for reliability assessment. A general solution to the problem of filtering and prediction entails some formidable mathematics. Efforts to circumvent the mathematics has resulted in the need for introducing more explicit descriptions of the underlying process. One such example, and a noteworthy one, is the Kalman Filter Model, which is a special case of state space models or what statisticians refer to as Dynamic Linear Models. Implementing the Kalman Filter Model in the era of \"big and high velocity non-Gaussian data\" can pose computational challenges with respect to efficiency and timeliness. Particle filtering is a way to ease such computational burdens. The purpose of this paper is to trace the historical evolution of this development from its inception to its current state, with an expository focus on two versions of the particle filter, namely, the propagate first-update next and the update first-propagate next version. By way of going beyond a pure review, this paper also makes transparent the importance and the role of a less recognized principle, namely the principle of conditionalization, in filtering and prediction based on Bayesian methods. Furthermore, the paper also articulates the philosophical underpinnings of the filtering and prediction set-up, a matter that needs to ne made explicit, and Yule's decomposition of a random variable in terms of a sequence of innovations.",
+    "authors": [
+      "Nozer D. Singpurwalla",
+      " Nicholas G. Polson",
+      " Refik Soyer"
+    ],
+    "id": "1705.04141",
+    "comments": null
+  }
+]
